@@ -1,0 +1,266 @@
+RFPfor Supply and Printing of RuPay(EMV) Cards
+Scheduleof Events 3
+1. Introduction 4
+2. Objective of RFP 4
+3. Current Situation 4
+3.1 Functional 4
+3.2 Architecture 5
+3.3 Technical 5
+4. Future Scenario 5
+4.1 Functional 5
+5. Eligibility Criteria 6
+6. Requirements / Scopeof Work 8
+6.1.1Starter kit KCC 8
+6.1.2Starter kit SBaccounts (Debit Cards) 8
+6.1.3PINgeneration : 9
+7. Project Timelines 9
+8.0ther Terms and Condition 10
+8.1Languageof Tender: 10
+8.2ScheduleOf Project & Key Dates and Events 10
+8.3Liquidated Damages: ": 10
+8.4Performance security: 10
+8.5Payment terms: 11
+8.6 Cost of Tendering : 11
+8.7 Amendment to Tender Document 11
+8.8Clarification of Bids 12
+8.9Tender Price 12
+8.10 Instructions for the Commercial Bid 12
+8.11Tender Security (EMD) 13
+8.12Tender Currency 13
+8.13Tender Forms 13
+8.14 Period ofValidityofTenders 13
+8.15 Signingand Submission of Tender 13
+--- Pag2
+Tender Reference No.
+OSCB/DIT/187 12022-23
+Date of Issue of RFP 18.04.2022
+Last date of Submission ofRFP 02.05.2022
+Opening of Technical Bid 04.05.2022
+Last date for accepting the clarifications request 21.04.2022
+Pre-bid meeting 25.04.2022
+Place of opening of bids Odisha State Cooperative Bank Pandit Jawaharlal Neheru Marg, Bhubaneswa~751001 Address for communication Odisha State Cooperative Bank Pandit Jawaharlal Neheru Marg, Bhubaneswa~751001
+Place of opening of bids Odisha State Cooperative Bank Pandit Jawaharlal Neheru Marg, Bhubaneswa~751001 Address for communication Odisha State Cooperative Bank Pandit Jawaharlal Neheru Marg, Bhubaneswa~751001
+Earnest Money Deposit Rs. 4.00 Lakhs (Rupees Four Lakh) Only payable by DD on Bhubaneswar in favour of The Odisha State Cooperative Bank Ltd
+Website For Down load www.odishascb.com
+Email address for any Queries oscbdit@odishascb.com
+ODISHA STATE CO-OPERATIVE BANK LTD.
+ herein after referred to as
+ OSCB
+ having its
+registered office at
+ Pandit Jawarlal Neheru Marg,Bhubaneswar-751 001,
+ as the purchaser
+is a scheduled State Cooperative Bank in the State of Odisha. The Bank is catering to the
+urban clientele through the network of 14 Branches with 14 onsite ATMs all over the State.
+The Bank is also catering to the rural clientele by providing on lending agricultural finance and
+banking facilities. The affiliate 17 District Cooperative Central Banks having their registered
+offices at the Headquarters of their respective Districts in ODISHA hereinafter referred to as
+DCCBs having a network of 341 Branches.
+OSCB invites proposals (Technical and Commercial) for Instant and personalized RuPay
+Cards. The card management presently is with
+ MIs
+ Finacus Solutions Pvt. Ltd, who is also
+managing our switch. Although the initial period of order will be for 12 months, Bank will have
+the option of extending the period for another 2 years at the same rate and terms and
+conditions
+OSCB is on the CBS platform since 2013. CBS application under -SuVikas provided by
+ MIS
+VSOFT Pvt. Ltd. has all the features of Retail banking operations along with the unique
+modules of Short Term Loans and Long Term Loans for on lending to DCC Banks, Direct
+Lending Modules to State Level APEX Co Operative Institutions, Industrial Finance etc. Apart
+from this, , electronic transfer through RTGS/NEFT, CTS, Direct Benefit Transfer etc.,
+Presently OSCB is providing ATM services to its client on the network of its own network of
+13 ATM's and is proposing to provide access to ATM network of other Banks through NFS.
+The switch and card management system are provided by
+ MIs
+ Finacus Solutions Pvt. Ltd.
+OSCB is having 17 DCCBs affiliated to it .The 17 DCCB Banks having branches spread
+across each and every nook and corner of Odisha. These 17 DCCBs entities are on common
+CBS platform provided by
+ MIs.
+ VSOFT Pvt. Ltd . CBS operating individually carrying out their
+individual transactions with unique functionality with respect to their business rules providing
+retail banking facility to more than 4.0 million individual customers and approximately 2171
+PACS and other affiliated societies. Currently all PACSs do not operate on a core banking
+system but during the Cards roll out project, the customer data and Account will be registered
+in the CBS of the DCCB's. We also propose to brings PACS to CBS system shortly.
+-_._._-----_--------_._--_-_
+-_._._-----_--------_._--_-_
+-_._._-----_--------_._--_-_
+-_._._-----_--------_._--_-_
+Pag4
+RFPfor Supply and Printing of RuPay
+(EMV)
+ Cards
+OSCB CBS is functioning on Three Tier Architecture- All the users in the HO and branches
+are connected to the Application servers through Intermediary application server housed in
+the respective branches which are in turn connected to the Database server for transacting
+the banking operations.
+DCCB CBS is working on Three Tier Architecture which is a web based application operating
+on intranet. All the users in the head office of the DCCB's and branches are connected to the
+application servers through the Intranet (WAN) connectivity provided by Mis. BSNL to the
+application server located at DCCB CBS Data Centre at Bhubaneswar and in turn,
+connected to the Database server for making the transactions.
+OSCB and DCCBs CBS is on Linux platform, the database servers and all the application
+servers are operated on Windows 2008 and PostgreSQL at the backend to the application
+software SuVikas provided by Mis Vsoft Pvt. Ltd.. All the branches are connected to the
+datacenter through the MPLS leased lines provided by Mis. BSNL. A total redundant setup
+for the Data centre is working at the Disaster Recovery Site (DR).
+OSCB is planning to provide access to ATM/PoS/MicroATM's/NFS services, offering
+Interoperable Rupay Debit Cards operated on NFS provided by NPCI to bring its own
+clientele as well as all the 17 DCCB banks on to the common platform for accessing the NFS
+services through OSCB by enrolling them as the sub members for ATM Rupay Debit card,
+Rupay KCC card e-commerce. Further to that, to facilitate the farming community, who are
+the members of the PACS, Bank has provided easy banking by installing ATM's in some of
+the branches of DCCB and also invariably Micro ATM's in the 2600 PACS. These cards can
+also be used in any of the POS terminal.
+In the present scenario OSCB and DCCBs CBS is maintained by Mis. VSOFT Pvt. Ltd..
+OSCB is on the electronic payment platform providing various services to its customers. The
+Card Management System (CMS) is managed by FINACUS who also manage our switch.
+provided by the switch including 16 digit card number will be used by the printer for printing of
+the cards as well as providing the details in EMV chips and magnetic strips. The Pin Mailer
+will also be generated by the CMS and will be printed and sent by Finacus to the Bank.
+For instant cards connecting the Accounts and updation of switch will be done by the Core
+Banking System, using a portal provided by the switch.
+This invitation of bid is open to reputed companies! firms! consortiums who have proven
+experience in the field of Instant RuPay Cards production and fulfill the eligibility criteria as
+laid down in this document.
+Here forth -Bidder(s) will mean -companies! firms! consortium.
+certificate of commencement of Business.
+SI.
+SI. Documents to be submitted
+1. Bids may be submitted by a single Bidder or a Agreement! MoU among the
+consortium of not more than 2 members, having consortium members.
+arrangement among themselves for provision of the required services together till due completion of the contract. In the case of a consortium, the leader of the consortium shall be the single point of contract for the Bank, and all documents! agreements would be executed by the leader on behalf of the consortium. The lead bidder of the consortium should satisfy eligibility criteria.
+Copy of the Registration! 2. The leader of the consortium should be a registered firm! company and should have been in-operation for at least ten years as on date of RFP.
+3. The Lead Bidder of Consortium member must Documentary evidence to be be a manufacturer of RuPay Mag-strip
+ &
+ EMV provided.
+-------.------------ Pag6
+~
+Cards.
+4. The Lead Bidder should have at least 3 year's Documentary evidence with
+experience in manufacture! personalization of copies of orders. Smart cards.
+5. The Lead Bidder must have provided cards to Details of the card services and
+minimum 3 Banks. Names of two banks! Institutions! Govt. agencies along with credential letter and their Phone No. and email address.
+6. The Lead Bidder must have supplied a Credential Letters.
+minimum 10 million smart cards during the last three years including cards in banking sector for Government projects in India.
+7.
+The Lead Bidder should have RuPay card Documentary evidence of the
+certification for EMV card manufacturing and certification by NPCI. Personalization.
+The Lead Bidder should have internal control Copy of latest Audit Report.
+and audit measures in place.
+9 The Lead Bidder should have its own Supported by documentary
+manufacturing ! personalization capacity of a evidence. minimum of 500,000 a month and should be able to scale it to 3 million a month, if required.
+10 Lead Bidder should have ISO 9001 security Supported by documentary
+certification. evidence.
+11 The Bidder should have a Positive Net Worth Financial statements or certificate
+during the last two financial years and have an from Chartered Accountant to be annual turnover of at least Rs.50.00 Crores submitted.
+during any 2 of last 3 years.
+12 The systems offered should not violate any IPR. Self-certification.
+13 The Bidder! members of the consortium should Self-certification
+not have been blacklisted by any PSU Bank! any Government.
+14 The Lead Bidder should have experience in the Supported by documentary
+manufacture of PVC cards. evidence.
+15 The Lead Bidder must be Indian Banks Supported by documentary Association (lBA) certified. evidence.
+Any wrong information provided by the bidder regarding eligibility will automatically
+-------- ------------------------------- Pag7
+---- Pag8
+The bidder should perform the role of integrator/supplier for all the items listed in this RFP.
+The bidder should deliver a time-bound project plan for the entire project. The plan will need to include a clearly described critical path identifying inter-dependencies within the project. The plan should describe roles and responsibilities of the bidder, the bank and
+third parties, as well as the bidder's approach to manage this.
+The organizations (OSCB
+The organizations (OSCB
+ DCCBs) require Instant Rupay Kisan Credit Cards and Rupay
+Debit Cards to fulfill a complete system for card issuing and management.
+At go-live at least these deliverables need to be available for the Rupay cards:
+6.1.1.1. Instant RuPay EMV KCC with magnetic stripe, Chip.
+6.1.1.2. A KYC data registration form
+6.1.1.3. General Term &Conditions
+6.1.1.4. A Commercial attractive window envelope in a design to be provided
+by OSCB
+6.1.2.1. Instant RuPay EMV (ATM) debit card with magnetic stripe, Chip.
+6.1.2.2. A KYC data registration form
+6.1.2.3. General Terms &Conditions
+6.1.2.4. A Commercial attractive window envelope in a design to be
+provided by OSCB
+ SB
+ SB
+6.1.3.1. Instant RuPay EMV Debit Card with Chip and MagnetiCstripe.
+6.1.3.2. Pin mailer
+6.1.3.3. A KYC data registration form.
+6.1.3.4. General Terms and Conditions
+6.1.3.5. A commercial attractive window envelop in a design to tbe
+provided by OSCB.
+6.1.4. Logistic delivery plan to 17 DCCB Head Quarters
+6.4.5. OSCB will provide an approved card design
+6.4.6. Bidder should be able to deliver batches of up to 20,000 cards, to the
+DCCB Head Office specified by the bank within 15 working days at any
+time during the contract period. The total number of cards for all DCCBs
+and OSCB together may go up to 1,00,000.
+6.4.7. Bidder's minimum batch size for Instant cards should be equal to or less
+than 20,000 cards.
+6.4.8. The bidder should indicate its minimum batch size for Debit cards in its proposal, inclusive of maximum delivery times.
+-- Pag9
+6.4.9. Bidder should propose minimum 16k module capable to handle the requirements of the bank. If any certification is required for the bidder from
+NPIC/RuPay, the Bidder must submit undertaking to obtain the any
+necessary certifications from Rupay/NPCI within 90 days from receipt of
+PO.
+6.4.10. The bidder should also provide commercials for personalization instant
+cards and personalized cards separately.
+PINgeneration will be done by Finacus,who handles our CMS.
+Description Year 1 Year 2 Year 3
+Description Year 1 Year 2 Year 3 2023 2024
+Number of Cards to be Issued (in Lacs)
+Number of Cards to be Issued (in Lacs) 3
+Number of Cards to be Issued (in Lacs) 3
+Micro-ATMs, PoS, Mobile phone and e-commerce. However during the 1
+Micro-ATMs, PoS, Mobile phone and e-commerce. However during the 1
+ year the
+requirement of cards may be slightly more because cards will be required to provide the
+existing  Alc  holders.
+The bidder is required to submit a realistic and detailed capacity declaration and we expect
+initial lot of required cards to be delivered in a time span of 2 months of placement of order.
+Therefore, every lot on order is required to be delivered within the 3 year schedule. _
+The Bidder is expected to examine all instructions, forms, terms, specification and other
+information in the tender documents. Failure to furnish all information required by the
+tender documents or submission of a tender not substantially responsive to the tender
+documents in every respect will be at the Bidder's risk and may result in rejection of its
+tender. The language of the tender shall be in English Only.
+9
+9 Will be Informed separately 10 Contract Sign off Will be Informed separately 11 Pilot Go Live Will be Informed separately
+The vendor/bidder shall be responsible for maintaining timelines in implementation of the
+project as per the time schedule agreed at the time of contract.
+Penalty for delays in completion of the project will be levied @ Rs 5,000/- (Rupees five
+thousand only) per week of delay, subject to a maximum of 10% of contact value.
+The selected bidder will have to furnish to the Bank a Performance Bank Guarantee (PBG)
+from a scheduled Bank for 10% of CV for due performance of supply, installation of data and
+maintenance of the entire solution within the stipulated time frame agreed to by the Bank.
+This will have a validity period of 48 months. In the event of non-compliance in performance
+of supply, installation and maintenance of cards the PBG will be invoked.
+The Bank may, at its sole discretion, extend the deadline for the submission of Tenders. This
+will be communicated in similar fashion as any amendment. .
+10% advance along with the order 90% against delivery
+Taxes: Prices are exclusive of all taxes, statutory levies etc.
+The bidder shall bear all costs associated with the preparation and submission of its Tender.
+The Bank shall in no case be responsible or liable for these costs, regardless of the conduct
+or outcome of the Tendering process.
+The Tender responses of unsuccessful bidders will not be returned.
+The Bidder should carefully study all instructions, forms, terms and conditions and
+specifications in the Tender Document. Failure to furnish full information prescribed in the
+Tender Document or submitting a Tender not substantially responsive to the Tender
+Document in every respect may result in the rejection of the Tender.
+The Bidder shall not, without the Bank's prior written consent, make use of any document or
+information enumerated in the Tender Document except for the purposes of performing the
+Contract.
+Any publicity by the selected bidder in which the name of the Bank is to be used shall be
+done only with the explicit written permission from the Bank.
+Participation in the pre-bid meeting is restricted to only the invited bidders. Only those
+bidders who have been sent the RFP document by the Bank are allowed to attend the pre-
+bid meeting and submit the proposal.
+At any time prior to the deadline for submission of Tenders, the Bank may, at its own
+initiative or in response to a clarification requested by a bidder, modify the Tender document
+by an amendment.
+The amendment will be hosted at the Bank's website and such amendments will be binding
+on them. All prospective bidders who have been sent the RFP will be provided the
+clarification via e-mail as well as on the bank's website.

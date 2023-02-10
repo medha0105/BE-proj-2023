@@ -1,0 +1,80 @@
+The Bank intends to implement the IMPS Switch & Solution on OPEX Model at Bidder’s DC and DRC.  The proposed IMPS Switch Solution should seamlessly interface with Bank’s Core Banking Solution  and other applications such as Internet Banking, Mobile Banking, SMS gateway of the Bank, as  applicable. However, if the Bank changes their CBS Application, Bidder has to provide interface with  the new CBS application without any additional cost during the tenure of the contract. 
+The IMPS solution should include, but not limited to, the following: 
+i. The IMPS Switch solution should meet the functional and technical requirements as mentioned 
+in Section 7.2. 
+ii. The vendor should implement the IMPS solution on ASP Model i.e., at Bidder’s DC and at 
+Disaster Recovery Site. Any other software licenses required for the proper functioning of the  solution as per the RFQ should be factored by the Bidder.  
+iii. The solution should be integrated with online banking channel offering a central transaction 
+management, business logic orchestration and application administration. 
+iv. To implement proposed IMPS Switch solution by interfacing with Bank’s Core Banking 
+application and interfacing with NPCI using XML message format and any other type used by  NPCI. 
+v. Bidder has to undertake to incorporate, at no cost to the Bank, suitable changes/ amendments 
+in the solution including the software, procedure and operations as required from time to time  to comply with any new rules of Indian Law or new rules from RBI/IBA/MFI/NPCI/Bank for  providing the IMPS Switch services to the Bank throughout the tenure. 
+vi. The proposed solution should be capable of providing various MIS/ customized reports which 
+should be configurable in nature. 
+vii. IMPS Switch should be capable of processing 150 TPS.   viii. Bidder must ensure that the proposed solution will encompass any new products offered by 
+NPCI during the contract period. 
+ix. Bidder must ensure that the proposed solution architecture will support any future integration 
+with IMPS with or without major changes. Bidder to provide essential API and SDK. 
+x. Bidder will have to include version upgrade and enhancements in services on account of 
+industry dynamics as a part of the Annual Maintenance. Any development work of such type  will be carried out by the technical team of Bidder. 
+The Bank intends to implement the IMPS Switch & Solution on OPEX Model at Bidder’s DC and DRC.  The proposed IMPS Switch Solution should seamlessly interface with Bank’s Core Banking Solution  and other applications such as Internet Banking, Mobile Banking, SMS gateway of the Bank, as  applicable. However, if the Bank changes their CBS Application, Bidder has to provide interface with  the new CBS application without any additional cost during the tenure of the contract. 
+The IMPS solution should include, but not limited to, the following: 
+i. The IMPS Switch solution should meet the functional and technical requirements as mentioned 
+in Section 7.2. 
+ii. The vendor should implement the IMPS solution on ASP Model i.e., at Bidder’s DC and at 
+Disaster Recovery Site. Any other software licenses required for the proper functioning of the  solution as per the RFQ should be factored by the Bidder.  
+iii. The solution should be integrated with online banking channel offering a central transaction 
+management, business logic orchestration and application administration. 
+iv. To implement proposed IMPS Switch solution by interfacing with Bank’s Core Banking 
+application and interfacing with NPCI using XML message format and any other type used by  NPCI. 
+v. Bidder has to undertake to incorporate, at no cost to the Bank, suitable changes/ amendments 
+in the solution including the software, procedure and operations as required from time to time  to comply with any new rules of Indian Law or new rules from RBI/IBA/MFI/NPCI/Bank for  providing the IMPS Switch services to the Bank throughout the tenure. 
+vi. The proposed solution should be capable of providing various MIS/ customized reports which 
+should be configurable in nature. 
+vii. IMPS Switch should be capable of processing 150 TPS.   viii. Bidder must ensure that the proposed solution will encompass any new products offered by 
+NPCI during the contract period. 
+ix. Bidder must ensure that the proposed solution architecture will support any future integration 
+with IMPS with or without major changes. Bidder to provide essential API and SDK. 
+x. Bidder will have to include version upgrade and enhancements in services on account of 
+industry dynamics as a part of the Annual Maintenance. Any development work of such type  will be carried out by the technical team of Bidder. 
+The Bank intends to implement the IMPS Switch & Solution on OPEX Model at Bidder’s DC and DRC.  The proposed IMPS Switch Solution should seamlessly interface with Bank’s Core Banking Solution  and other applications such as Internet Banking, Mobile Banking, SMS gateway of the Bank, as  applicable. However, if the Bank changes their CBS Application, Bidder has to provide interface with  the new CBS application without any additional cost during the tenure of the contract. 
+The IMPS solution should include, but not limited to, the following: 
+i. The IMPS Switch solution should meet the functional and technical requirements as mentioned 
+in Section 7.2. 
+ii. The vendor should implement the IMPS solution on ASP Model i.e., at Bidder’s DC and at 
+Disaster Recovery Site. Any other software licenses required for the proper functioning of the  solution as per the RFQ should be factored by the Bidder.  
+iii. The solution should be integrated with online banking channel offering a central transaction 
+management, business logic orchestration and application administration. 
+iv. To implement proposed IMPS Switch solution by interfacing with Bank’s Core Banking 
+application and interfacing with NPCI using XML message format and any other type used by  NPCI. 
+v. Bidder has to undertake to incorporate, at no cost to the Bank, suitable changes/ amendments 
+in the solution including the software, procedure and operations as required from time to time  to comply with any new rules of Indian Law or new rules from RBI/IBA/MFI/NPCI/Bank for  providing the IMPS Switch services to the Bank throughout the tenure. 
+vi. The proposed solution should be capable of providing various MIS/ customized reports which 
+should be configurable in nature. 
+vii. IMPS Switch should be capable of processing 150 TPS.   viii. Bidder must ensure that the proposed solution will encompass any new products offered by 
+NPCI during the contract period. 
+ix. Bidder must ensure that the proposed solution architecture will support any future integration 
+with IMPS with or without major changes. Bidder to provide essential API and SDK. 
+x. Bidder will have to include version upgrade and enhancements in services on account of 
+industry dynamics as a part of the Annual Maintenance. Any development work of such type  will be carried out by the technical team of Bidder. 
+The Bank intends to implement the IMPS Switch & Solution on OPEX Model at Bidder’s DC and DRC.  The proposed IMPS Switch Solution should seamlessly interface with Bank’s Core Banking Solution  and other applications such as Internet Banking, Mobile Banking, SMS gateway of the Bank, as  applicable. However, if the Bank changes their CBS Application, Bidder has to provide interface with  the new CBS application without any additional cost during the tenure of the contract. 
+The IMPS solution should include, but not limited to, the following: 
+i. The IMPS Switch solution should meet the functional and technical requirements as mentioned 
+in Section 7.2. 
+ii. The vendor should implement the IMPS solution on ASP Model i.e., at Bidder’s DC and at 
+Disaster Recovery Site. Any other software licenses required for the proper functioning of the  solution as per the RFQ should be factored by the Bidder.  
+iii. The solution should be integrated with online banking channel offering a central transaction 
+management, business logic orchestration and application administration. 
+iv. To implement proposed IMPS Switch solution by interfacing with Bank’s Core Banking 
+application and interfacing with NPCI using XML message format and any other type used by  NPCI. 
+v. Bidder has to undertake to incorporate, at no cost to the Bank, suitable changes/ amendments 
+in the solution including the software, procedure and operations as required from time to time  to comply with any new rules of Indian Law or new rules from RBI/IBA/MFI/NPCI/Bank for  providing the IMPS Switch services to the Bank throughout the tenure. 
+vi. The proposed solution should be capable of providing various MIS/ customized reports which 
+should be configurable in nature. 
+vii. IMPS Switch should be capable of processing 150 TPS.   viii. Bidder must ensure that the proposed solution will encompass any new products offered by 
+NPCI during the contract period. 
+ix. Bidder must ensure that the proposed solution architecture will support any future integration 
+with IMPS with or without major changes. Bidder to provide essential API and SDK. 
+x. Bidder will have to include version upgrade and enhancements in services on account of 
+industry dynamics as a part of the Annual Maintenance. Any development work of such type  will be carried out by the technical team of Bidder. 

@@ -1,0 +1,551 @@
+Interface  
+Bidder should provide application interface to Bank’s Core Banking Solution (Existing and future), ATM  Switch (Existing and future), Internet Banking (Existing and future), eFRM, FRM, SMS Gateway (Existing and  future), Bank’s selected BBPOU for providing BBPS Solution as well as for new products within the tenure  with no additional cost to Bank.  
+Reconciliation Solution  
+Bidder is responsible for performing the Reconciliation of all the delivery channels on T+1 calendar day/real- time as per the regulatory guidelines or as per the requirement of the Bank. In future, if there is any change  in the reconciliation process as per the regulatory guidelines or as per the requirement of the Bank then the  same has to be carried out or to be implemented without any additional cost to the Bank. (All statutory  changes within a project tenure will not be considered as Change Management and no additional cost will  be paid to the Bidder) 
+One time Cost: 
+One time cost should include Implementation charges, Development charges, API development between  CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for proposed application,  Training , Customization, Infrastructure setup and allocation etc. and will be paid for all applications such as  Mobile Banking, IMPS and UPI after successful implementation (Go-live), sign off and acceptance by the bank  as below: 
+ Transaction Cost (Operational Expenditure): 
+Successful Financial and Non-Financial Transaction cost will be paid quarterly in arrears as per rate mentioned  in commercial Bill of Material.  
+Customization Cost (if Any) 
+i. 75% of customization cost on actual will be paid after successful implementation post UAT of the 
+customization point and sign off and acceptance by the Bank. 
+ii. 25% of the customization cost will be paid after 1 month post GO LIVE or completion of customized points 
+and sign off and acceptance by the Bank 
+iii. Customization cost (if any) starts only after successful completion of all requirement points mentioned in 
+section - 7.2 and sign-off by the Bank. The customization cost will be mutually decided based on man days  efforts quoted by the vendor mentioned in non TCO item. 
+Reconciliation Cost 
+100% of cost will be paid quarterly in arrears as per the rate mentioned in commercial Bill of Material for all  successful financial reconciled transactions and sign off and acceptance by the Bank. Bidder has to submit the  appropriate quarterly report to justify the tax invoice. 
+Service Level Agreement
+The project is service-oriented and the operational portion of the agreement between CCBL and Bidder will be in  the form of a Service Level Agreement (SLA). The SLA specifies the expected levels of service to be provided  by Bidder to CCBL. This expected level is also called the baseline. Any degradation in the performance of the  solution and services is subject to levying penalties as specified in the following sections. 
+This section indicates the suggested SLA between CCBL and Bidder for the project. A set of parameters has 
+been identified as key to the successful implementation of the Project. If the performance of Bidder in respect  of any parameter falls below the prescribed tolerance limit, a penalty is imposed for the breach. All the  payments to Bidder are linked to the compliance with the SLA metrics specified down in this section. During  the contract period, it is envisaged that there could be changes to the SLAs, in terms of addition, alteration or  deletion of certain parameters, based on mutual consent of both the parties i.e., CCBL and Bidder. 
+This section describes the service levels to be established for the services offered by the Bidder. Bidder shall  monitor and maintain the stated service levels to provide quality service.  Penalties & Service Level Agreement 
+Bidder shall have to enter into “Service Levels Agreement” with Bank covering all terms and conditions of this  tender while providing the service support and onsite/offsite support. Once go-live of application, the services  should be available on 365X24x7 basis and hence any technical problem should be resolved within 30 minutes  of  first  incident report.  
+Bidder is expected to response and resolve issue within prescribed time frame based on the severity  description decided by Bank mentioned above and needs to strictly adhere to Server Level Agreement (SLA).  
+The Bank would expect Bidder to commit to the service level assurances. Bidder shall commit to maintain  uptime of 99.95% and above per month.  
+The SLA will be reviewed on a monthly basis. Penalties will be applicable due to downtime of software  application.  
+Bidder shall guarantee 99.95% uptime required for Application, Switch services and DC & DR infrastructure  services. Bidder shall be liable for penalties for uptime maintained below 99.95% in a quarter. Bidder should  provide system generated availability report for each quarter. Uptime availability could be calculated as  below: 
+ Uptime Availability in %= {(U – C )– D}/ (U – C) 
+Refer to the below definitions of the parameters. 
+Cancellation of Contract and Compensation: 
+The BANK reserves the right to cancel the contract of Bidder and recover expenditure incurred by the bank on  the following circumstances: - 
+i.  Bidder commits a breach of any of the terms and conditions of the bid/contract. 
+ii.  Bidder goes into liquidation voluntarily or otherwise. 
+iii.  An attachment is levied or continues to be levied for a period of 7 days upon effects of the bid. 
+iv.  The progress regarding execution of the contract, made by Bidder is found to be unsatisfactory. 
+v.  After the award of the contract, if Bidder does not perform satisfactorily or delays execution of the 
+contract, the BANK reserves the right to get the balance contract executed by another party of its  choice by giving one-month notice for the same. In this event, Bidder is bound to make good the  additional expenditure, which the BANK may have to incur to carry out bidding process for the  execution of the balance of the contract. This clause is applicable, if for any reason, the contract is 
+canceled. 
+Time Schedule of the Project: 
+Bidder is expected to adhere to the following timelines: 
+Solutions  Activity 
+Timeline 
+M1  M2  M3 
+Mobile Banking  Solution 
+Delivery, installation, customization, UAT and go-live of  Mobile Banking solution on respective play store / Apple Store /   equivalent for at-least Android and IOS 
+IMPS Switch &  Solution 
+Delivery, installation, customization, UAT, Testing for  NPCI certification and go-live of IMPS Switch solution 
+UPI Switch &  Solution for Issuer  
+Delivery, installation, customization, UAT, Testing for  NPCI certification and go-live of UPI solution for Issuer  
+Bidder is expected to integrate the solution with Bank’s applications. 
+Interface  
+Bidder should provide application interface to Bank’s Core Banking Solution (Existing and future), ATM  Switch (Existing and future), Internet Banking (Existing and future), eFRM, FRM, SMS Gateway (Existing and  future), Bank’s selected BBPOU for providing BBPS Solution as well as for new products within the tenure  with no additional cost to Bank.  
+Reconciliation Solution  
+Bidder is responsible for performing the Reconciliation of all the delivery channels on T+1 calendar day/real- time as per the regulatory guidelines or as per the requirement of the Bank. In future, if there is any change  in the reconciliation process as per the regulatory guidelines or as per the requirement of the Bank then the  same has to be carried out or to be implemented without any additional cost to the Bank. (All statutory  changes within a project tenure will not be considered as Change Management and no additional cost will  be paid to the Bidder) 
+One time Cost: 
+One time cost should include Implementation charges, Development charges, API development between  CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for proposed application,  Training , Customization, Infrastructure setup and allocation etc. and will be paid for all applications such as  Mobile Banking, IMPS and UPI after successful implementation (Go-live), sign off and acceptance by the bank  as below: 
+ Transaction Cost (Operational Expenditure): 
+Successful Financial and Non-Financial Transaction cost will be paid quarterly in arrears as per rate mentioned  in commercial Bill of Material.  
+Customization Cost (if Any) 
+i. 75% of customization cost on actual will be paid after successful implementation post UAT of the 
+customization point and sign off and acceptance by the Bank. 
+ii. 25% of the customization cost will be paid after 1 month post GO LIVE or completion of customized points 
+and sign off and acceptance by the Bank 
+iii. Customization cost (if any) starts only after successful completion of all requirement points mentioned in 
+section - 7.2 and sign-off by the Bank. The customization cost will be mutually decided based on man days  efforts quoted by the vendor mentioned in non TCO item. 
+Reconciliation Cost 
+100% of cost will be paid quarterly in arrears as per the rate mentioned in commercial Bill of Material for all  successful financial reconciled transactions and sign off and acceptance by the Bank. Bidder has to submit the  appropriate quarterly report to justify the tax invoice. 
+Service Level Agreement
+The project is service-oriented and the operational portion of the agreement between CCBL and Bidder will be in  the form of a Service Level Agreement (SLA). The SLA specifies the expected levels of service to be provided  by Bidder to CCBL. This expected level is also called the baseline. Any degradation in the performance of the  solution and services is subject to levying penalties as specified in the following sections. 
+This section indicates the suggested SLA between CCBL and Bidder for the project. A set of parameters has 
+been identified as key to the successful implementation of the Project. If the performance of Bidder in respect  of any parameter falls below the prescribed tolerance limit, a penalty is imposed for the breach. All the  payments to Bidder are linked to the compliance with the SLA metrics specified down in this section. During  the contract period, it is envisaged that there could be changes to the SLAs, in terms of addition, alteration or  deletion of certain parameters, based on mutual consent of both the parties i.e., CCBL and Bidder. 
+This section describes the service levels to be established for the services offered by the Bidder. Bidder shall  monitor and maintain the stated service levels to provide quality service.  Penalties & Service Level Agreement 
+Bidder shall have to enter into “Service Levels Agreement” with Bank covering all terms and conditions of this  tender while providing the service support and onsite/offsite support. Once go-live of application, the services  should be available on 365X24x7 basis and hence any technical problem should be resolved within 30 minutes  of  first  incident report.  
+Bidder is expected to response and resolve issue within prescribed time frame based on the severity  description decided by Bank mentioned above and needs to strictly adhere to Server Level Agreement (SLA).  
+The Bank would expect Bidder to commit to the service level assurances. Bidder shall commit to maintain  uptime of 99.95% and above per month.  
+The SLA will be reviewed on a monthly basis. Penalties will be applicable due to downtime of software  application.  
+Bidder shall guarantee 99.95% uptime required for Application, Switch services and DC & DR infrastructure  services. Bidder shall be liable for penalties for uptime maintained below 99.95% in a quarter. Bidder should  provide system generated availability report for each quarter. Uptime availability could be calculated as  below: 
+ Uptime Availability in %= {(U – C )– D}/ (U – C) 
+Refer to the below definitions of the parameters. 
+Cancellation of Contract and Compensation: 
+The BANK reserves the right to cancel the contract of Bidder and recover expenditure incurred by the bank on  the following circumstances: - 
+i.  Bidder commits a breach of any of the terms and conditions of the bid/contract. 
+ii.  Bidder goes into liquidation voluntarily or otherwise. 
+iii.  An attachment is levied or continues to be levied for a period of 7 days upon effects of the bid. 
+iv.  The progress regarding execution of the contract, made by Bidder is found to be unsatisfactory. 
+v.  After the award of the contract, if Bidder does not perform satisfactorily or delays execution of the 
+contract, the BANK reserves the right to get the balance contract executed by another party of its  choice by giving one-month notice for the same. In this event, Bidder is bound to make good the  additional expenditure, which the BANK may have to incur to carry out bidding process for the  execution of the balance of the contract. This clause is applicable, if for any reason, the contract is 
+canceled. 
+Time Schedule of the Project: 
+Bidder is expected to adhere to the following timelines: 
+Solutions  Activity 
+Timeline 
+M1  M2  M3 
+Mobile Banking  Solution 
+Delivery, installation, customization, UAT and go-live of  Mobile Banking solution on respective play store / Apple Store /   equivalent for at-least Android and IOS 
+IMPS Switch &  Solution 
+Delivery, installation, customization, UAT, Testing for  NPCI certification and go-live of IMPS Switch solution 
+UPI Switch &  Solution for Issuer  
+Delivery, installation, customization, UAT, Testing for  NPCI certification and go-live of UPI solution for Issuer  
+Bidder is expected to integrate the solution with Bank’s applications. 
+Interface  
+Bidder should provide application interface to Bank’s Core Banking Solution (Existing and future), ATM  Switch (Existing and future), Internet Banking (Existing and future), eFRM, FRM, SMS Gateway (Existing and  future), Bank’s selected BBPOU for providing BBPS Solution as well as for new products within the tenure  with no additional cost to Bank.  
+Reconciliation Solution  
+Bidder is responsible for performing the Reconciliation of all the delivery channels on T+1 calendar day/real- time as per the regulatory guidelines or as per the requirement of the Bank. In future, if there is any change  in the reconciliation process as per the regulatory guidelines or as per the requirement of the Bank then the  same has to be carried out or to be implemented without any additional cost to the Bank. (All statutory  changes within a project tenure will not be considered as Change Management and no additional cost will  be paid to the Bidder) 
+One time Cost: 
+One time cost should include Implementation charges, Development charges, API development between  CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for proposed application,  Training , Customization, Infrastructure setup and allocation etc. and will be paid for all applications such as  Mobile Banking, IMPS and UPI after successful implementation (Go-live), sign off and acceptance by the bank  as below: 
+ Transaction Cost (Operational Expenditure): 
+Successful Financial and Non-Financial Transaction cost will be paid quarterly in arrears as per rate mentioned  in commercial Bill of Material.  
+Customization Cost (if Any) 
+i. 75% of customization cost on actual will be paid after successful implementation post UAT of the 
+customization point and sign off and acceptance by the Bank. 
+ii. 25% of the customization cost will be paid after 1 month post GO LIVE or completion of customized points 
+and sign off and acceptance by the Bank 
+iii. Customization cost (if any) starts only after successful completion of all requirement points mentioned in 
+section - 7.2 and sign-off by the Bank. The customization cost will be mutually decided based on man days  efforts quoted by the vendor mentioned in non TCO item. 
+Reconciliation Cost 
+100% of cost will be paid quarterly in arrears as per the rate mentioned in commercial Bill of Material for all  successful financial reconciled transactions and sign off and acceptance by the Bank. Bidder has to submit the  appropriate quarterly report to justify the tax invoice. 
+Service Level Agreement
+The project is service-oriented and the operational portion of the agreement between CCBL and Bidder will be in  the form of a Service Level Agreement (SLA). The SLA specifies the expected levels of service to be provided  by Bidder to CCBL. This expected level is also called the baseline. Any degradation in the performance of the  solution and services is subject to levying penalties as specified in the following sections. 
+This section indicates the suggested SLA between CCBL and Bidder for the project. A set of parameters has 
+been identified as key to the successful implementation of the Project. If the performance of Bidder in respect  of any parameter falls below the prescribed tolerance limit, a penalty is imposed for the breach. All the  payments to Bidder are linked to the compliance with the SLA metrics specified down in this section. During  the contract period, it is envisaged that there could be changes to the SLAs, in terms of addition, alteration or  deletion of certain parameters, based on mutual consent of both the parties i.e., CCBL and Bidder. 
+This section describes the service levels to be established for the services offered by the Bidder. Bidder shall  monitor and maintain the stated service levels to provide quality service.  Penalties & Service Level Agreement 
+Bidder shall have to enter into “Service Levels Agreement” with Bank covering all terms and conditions of this  tender while providing the service support and onsite/offsite support. Once go-live of application, the services  should be available on 365X24x7 basis and hence any technical problem should be resolved within 30 minutes  of  first  incident report.  
+Bidder is expected to response and resolve issue within prescribed time frame based on the severity  description decided by Bank mentioned above and needs to strictly adhere to Server Level Agreement (SLA).  
+The Bank would expect Bidder to commit to the service level assurances. Bidder shall commit to maintain  uptime of 99.95% and above per month.  
+The SLA will be reviewed on a monthly basis. Penalties will be applicable due to downtime of software  application.  
+Bidder shall guarantee 99.95% uptime required for Application, Switch services and DC & DR infrastructure  services. Bidder shall be liable for penalties for uptime maintained below 99.95% in a quarter. Bidder should  provide system generated availability report for each quarter. Uptime availability could be calculated as  below: 
+ Uptime Availability in %= {(U – C )– D}/ (U – C) 
+Refer to the below definitions of the parameters. 
+Cancellation of Contract and Compensation: 
+The BANK reserves the right to cancel the contract of Bidder and recover expenditure incurred by the bank on  the following circumstances: - 
+i.  Bidder commits a breach of any of the terms and conditions of the bid/contract. 
+ii.  Bidder goes into liquidation voluntarily or otherwise. 
+iii.  An attachment is levied or continues to be levied for a period of 7 days upon effects of the bid. 
+iv.  The progress regarding execution of the contract, made by Bidder is found to be unsatisfactory. 
+v.  After the award of the contract, if Bidder does not perform satisfactorily or delays execution of the 
+contract, the BANK reserves the right to get the balance contract executed by another party of its  choice by giving one-month notice for the same. In this event, Bidder is bound to make good the  additional expenditure, which the BANK may have to incur to carry out bidding process for the  execution of the balance of the contract. This clause is applicable, if for any reason, the contract is 
+canceled. 
+Time Schedule of the Project: 
+Bidder is expected to adhere to the following timelines: 
+Solutions  Activity 
+Timeline 
+M1  M2  M3 
+Mobile Banking  Solution 
+Delivery, installation, customization, UAT and go-live of  Mobile Banking solution on respective play store / Apple Store /   equivalent for at-least Android and IOS 
+IMPS Switch &  Solution 
+Delivery, installation, customization, UAT, Testing for  NPCI certification and go-live of IMPS Switch solution 
+UPI Switch &  Solution for Issuer  
+Delivery, installation, customization, UAT, Testing for  NPCI certification and go-live of UPI solution for Issuer  
+Bidder is expected to integrate the solution with Bank’s applications. 
+Interface  
+Bidder should provide application interface to Bank’s Core Banking Solution (Existing and future), ATM  Switch (Existing and future), Internet Banking (Existing and future), eFRM, FRM, SMS Gateway (Existing and  future), Bank’s selected BBPOU for providing BBPS Solution as well as for new products within the tenure  with no additional cost to Bank.  
+Reconciliation Solution  
+Bidder is responsible for performing the Reconciliation of all the delivery channels on T+1 calendar day/real- time as per the regulatory guidelines or as per the requirement of the Bank. In future, if there is any change  in the reconciliation process as per the regulatory guidelines or as per the requirement of the Bank then the  same has to be carried out or to be implemented without any additional cost to the Bank. (All statutory  changes within a project tenure will not be considered as Change Management and no additional cost will  be paid to the Bidder) 
+One time Cost: 
+One time cost should include Implementation charges, Development charges, API development between  CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for proposed application,  Training , Customization, Infrastructure setup and allocation etc. and will be paid for all applications such as  Mobile Banking, IMPS and UPI after successful implementation (Go-live), sign off and acceptance by the bank  as below: 
+ Transaction Cost (Operational Expenditure): 
+Successful Financial and Non-Financial Transaction cost will be paid quarterly in arrears as per rate mentioned  in commercial Bill of Material.  
+Customization Cost (if Any) 
+i. 75% of customization cost on actual will be paid after successful implementation post UAT of the 
+customization point and sign off and acceptance by the Bank. 
+ii. 25% of the customization cost will be paid after 1 month post GO LIVE or completion of customized points 
+and sign off and acceptance by the Bank 
+iii. Customization cost (if any) starts only after successful completion of all requirement points mentioned in 
+section - 7.2 and sign-off by the Bank. The customization cost will be mutually decided based on man days  efforts quoted by the vendor mentioned in non TCO item. 
+Reconciliation Cost 
+100% of cost will be paid quarterly in arrears as per the rate mentioned in commercial Bill of Material for all  successful financial reconciled transactions and sign off and acceptance by the Bank. Bidder has to submit the  appropriate quarterly report to justify the tax invoice. 
+Service Level Agreement
+The project is service-oriented and the operational portion of the agreement between CCBL and Bidder will be in  the form of a Service Level Agreement (SLA). The SLA specifies the expected levels of service to be provided  by Bidder to CCBL. This expected level is also called the baseline. Any degradation in the performance of the  solution and services is subject to levying penalties as specified in the following sections. 
+This section indicates the suggested SLA between CCBL and Bidder for the project. A set of parameters has 
+been identified as key to the successful implementation of the Project. If the performance of Bidder in respect  of any parameter falls below the prescribed tolerance limit, a penalty is imposed for the breach. All the  payments to Bidder are linked to the compliance with the SLA metrics specified down in this section. During  the contract period, it is envisaged that there could be changes to the SLAs, in terms of addition, alteration or  deletion of certain parameters, based on mutual consent of both the parties i.e., CCBL and Bidder. 
+This section describes the service levels to be established for the services offered by the Bidder. Bidder shall  monitor and maintain the stated service levels to provide quality service.  Penalties & Service Level Agreement 
+Bidder shall have to enter into “Service Levels Agreement” with Bank covering all terms and conditions of this  tender while providing the service support and onsite/offsite support. Once go-live of application, the services  should be available on 365X24x7 basis and hence any technical problem should be resolved within 30 minutes  of  first  incident report.  
+Bidder is expected to response and resolve issue within prescribed time frame based on the severity  description decided by Bank mentioned above and needs to strictly adhere to Server Level Agreement (SLA).  
+The Bank would expect Bidder to commit to the service level assurances. Bidder shall commit to maintain  uptime of 99.95% and above per month.  
+The SLA will be reviewed on a monthly basis. Penalties will be applicable due to downtime of software  application.  
+Bidder shall guarantee 99.95% uptime required for Application, Switch services and DC & DR infrastructure  services. Bidder shall be liable for penalties for uptime maintained below 99.95% in a quarter. Bidder should  provide system generated availability report for each quarter. Uptime availability could be calculated as  below: 
+ Uptime Availability in %= {(U – C )– D}/ (U – C) 
+Refer to the below definitions of the parameters. 
+Cancellation of Contract and Compensation: 
+The BANK reserves the right to cancel the contract of Bidder and recover expenditure incurred by the bank on  the following circumstances: - 
+i.  Bidder commits a breach of any of the terms and conditions of the bid/contract. 
+ii.  Bidder goes into liquidation voluntarily or otherwise. 
+iii.  An attachment is levied or continues to be levied for a period of 7 days upon effects of the bid. 
+iv.  The progress regarding execution of the contract, made by Bidder is found to be unsatisfactory. 
+v.  After the award of the contract, if Bidder does not perform satisfactorily or delays execution of the 
+contract, the BANK reserves the right to get the balance contract executed by another party of its  choice by giving one-month notice for the same. In this event, Bidder is bound to make good the  additional expenditure, which the BANK may have to incur to carry out bidding process for the  execution of the balance of the contract. This clause is applicable, if for any reason, the contract is 
+canceled. 
+Time Schedule of the Project: 
+Bidder is expected to adhere to the following timelines: 
+Solutions  Activity 
+Timeline 
+M1  M2  M3 
+Mobile Banking  Solution 
+Delivery, installation, customization, UAT and go-live of  Mobile Banking solution on respective play store / Apple Store /   equivalent for at-least Android and IOS 
+IMPS Switch &  Solution 
+Delivery, installation, customization, UAT, Testing for  NPCI certification and go-live of IMPS Switch solution 
+UPI Switch &  Solution for Issuer  
+Delivery, installation, customization, UAT, Testing for  NPCI certification and go-live of UPI solution for Issuer  
+Bidder is expected to integrate the solution with Bank’s applications. 
+Interface  
+Bidder should provide application interface to Bank’s Core Banking Solution (Existing and future), ATM  Switch (Existing and future), Internet Banking (Existing and future), eFRM, FRM, SMS Gateway (Existing and  future), Bank’s selected BBPOU for providing BBPS Solution as well as for new products within the tenure  with no additional cost to Bank.  
+Reconciliation Solution  
+Bidder is responsible for performing the Reconciliation of all the delivery channels on T+1 calendar day/real- time as per the regulatory guidelines or as per the requirement of the Bank. In future, if there is any change  in the reconciliation process as per the regulatory guidelines or as per the requirement of the Bank then the  same has to be carried out or to be implemented without any additional cost to the Bank. (All statutory  changes within a project tenure will not be considered as Change Management and no additional cost will  be paid to the Bidder) 
+One time Cost: 
+One time cost should include Implementation charges, Development charges, API development between  CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for proposed application,  Training , Customization, Infrastructure setup and allocation etc. and will be paid for all applications such as  Mobile Banking, IMPS and UPI after successful implementation (Go-live), sign off and acceptance by the bank  as below: 
+ Transaction Cost (Operational Expenditure): 
+Successful Financial and Non-Financial Transaction cost will be paid quarterly in arrears as per rate mentioned  in commercial Bill of Material.  
+Customization Cost (if Any) 
+i. 75% of customization cost on actual will be paid after successful implementation post UAT of the 
+customization point and sign off and acceptance by the Bank. 
+ii. 25% of the customization cost will be paid after 1 month post GO LIVE or completion of customized points 
+and sign off and acceptance by the Bank 
+iii. Customization cost (if any) starts only after successful completion of all requirement points mentioned in 
+section - 7.2 and sign-off by the Bank. The customization cost will be mutually decided based on man days  efforts quoted by the vendor mentioned in non TCO item. 
+Reconciliation Cost 
+100% of cost will be paid quarterly in arrears as per the rate mentioned in commercial Bill of Material for all  successful financial reconciled transactions and sign off and acceptance by the Bank. Bidder has to submit the  appropriate quarterly report to justify the tax invoice. 
+Service Level Agreement
+The project is service-oriented and the operational portion of the agreement between CCBL and Bidder will be in  the form of a Service Level Agreement (SLA). The SLA specifies the expected levels of service to be provided  by Bidder to CCBL. This expected level is also called the baseline. Any degradation in the performance of the  solution and services is subject to levying penalties as specified in the following sections. 
+This section indicates the suggested SLA between CCBL and Bidder for the project. A set of parameters has 
+been identified as key to the successful implementation of the Project. If the performance of Bidder in respect  of any parameter falls below the prescribed tolerance limit, a penalty is imposed for the breach. All the  payments to Bidder are linked to the compliance with the SLA metrics specified down in this section. During  the contract period, it is envisaged that there could be changes to the SLAs, in terms of addition, alteration or  deletion of certain parameters, based on mutual consent of both the parties i.e., CCBL and Bidder. 
+This section describes the service levels to be established for the services offered by the Bidder. Bidder shall  monitor and maintain the stated service levels to provide quality service.  Penalties & Service Level Agreement 
+Bidder shall have to enter into “Service Levels Agreement” with Bank covering all terms and conditions of this  tender while providing the service support and onsite/offsite support. Once go-live of application, the services  should be available on 365X24x7 basis and hence any technical problem should be resolved within 30 minutes  of  first  incident report.  
+Bidder is expected to response and resolve issue within prescribed time frame based on the severity  description decided by Bank mentioned above and needs to strictly adhere to Server Level Agreement (SLA).  
+The Bank would expect Bidder to commit to the service level assurances. Bidder shall commit to maintain  uptime of 99.95% and above per month.  
+The SLA will be reviewed on a monthly basis. Penalties will be applicable due to downtime of software  application.  
+Bidder shall guarantee 99.95% uptime required for Application, Switch services and DC & DR infrastructure  services. Bidder shall be liable for penalties for uptime maintained below 99.95% in a quarter. Bidder should  provide system generated availability report for each quarter. Uptime availability could be calculated as  below: 
+ Uptime Availability in %= {(U – C )– D}/ (U – C) 
+Refer to the below definitions of the parameters. 
+Cancellation of Contract and Compensation: 
+The BANK reserves the right to cancel the contract of Bidder and recover expenditure incurred by the bank on  the following circumstances: - 
+i.  Bidder commits a breach of any of the terms and conditions of the bid/contract. 
+ii.  Bidder goes into liquidation voluntarily or otherwise. 
+iii.  An attachment is levied or continues to be levied for a period of 7 days upon effects of the bid. 
+iv.  The progress regarding execution of the contract, made by Bidder is found to be unsatisfactory. 
+v.  After the award of the contract, if Bidder does not perform satisfactorily or delays execution of the 
+contract, the BANK reserves the right to get the balance contract executed by another party of its  choice by giving one-month notice for the same. In this event, Bidder is bound to make good the  additional expenditure, which the BANK may have to incur to carry out bidding process for the  execution of the balance of the contract. This clause is applicable, if for any reason, the contract is 
+canceled. 
+Time Schedule of the Project: 
+Bidder is expected to adhere to the following timelines: 
+Solutions  Activity 
+Timeline 
+M1  M2  M3 
+Mobile Banking  Solution 
+Delivery, installation, customization, UAT and go-live of  Mobile Banking solution on respective play store / Apple Store /   equivalent for at-least Android and IOS 
+IMPS Switch &  Solution 
+Delivery, installation, customization, UAT, Testing for  NPCI certification and go-live of IMPS Switch solution 
+UPI Switch &  Solution for Issuer  
+Delivery, installation, customization, UAT, Testing for  NPCI certification and go-live of UPI solution for Issuer  
+Bidder is expected to integrate the solution with Bank’s applications. 
+Interface  
+Bidder should provide application interface to Bank’s Core Banking Solution (Existing and future), ATM  Switch (Existing and future), Internet Banking (Existing and future), eFRM, FRM, SMS Gateway (Existing and  future), Bank’s selected BBPOU for providing BBPS Solution as well as for new products within the tenure  with no additional cost to Bank.  
+Reconciliation Solution  
+Bidder is responsible for performing the Reconciliation of all the delivery channels on T+1 calendar day/real- time as per the regulatory guidelines or as per the requirement of the Bank. In future, if there is any change  in the reconciliation process as per the regulatory guidelines or as per the requirement of the Bank then the  same has to be carried out or to be implemented without any additional cost to the Bank. (All statutory  changes within a project tenure will not be considered as Change Management and no additional cost will  be paid to the Bidder) 
+One time Cost: 
+One time cost should include Implementation charges, Development charges, API development between  CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for proposed application,  Training , Customization, Infrastructure setup and allocation etc. and will be paid for all applications such as  Mobile Banking, IMPS and UPI after successful implementation (Go-live), sign off and acceptance by the bank  as below: 
+ Transaction Cost (Operational Expenditure): 
+Successful Financial and Non-Financial Transaction cost will be paid quarterly in arrears as per rate mentioned  in commercial Bill of Material.  
+Customization Cost (if Any) 
+i. 75% of customization cost on actual will be paid after successful implementation post UAT of the 
+customization point and sign off and acceptance by the Bank. 
+ii. 25% of the customization cost will be paid after 1 month post GO LIVE or completion of customized points 
+and sign off and acceptance by the Bank 
+iii. Customization cost (if any) starts only after successful completion of all requirement points mentioned in 
+section - 7.2 and sign-off by the Bank. The customization cost will be mutually decided based on man days  efforts quoted by the vendor mentioned in non TCO item. 
+Reconciliation Cost 
+100% of cost will be paid quarterly in arrears as per the rate mentioned in commercial Bill of Material for all  successful financial reconciled transactions and sign off and acceptance by the Bank. Bidder has to submit the  appropriate quarterly report to justify the tax invoice. 
+Service Level Agreement
+The project is service-oriented and the operational portion of the agreement between CCBL and Bidder will be in  the form of a Service Level Agreement (SLA). The SLA specifies the expected levels of service to be provided  by Bidder to CCBL. This expected level is also called the baseline. Any degradation in the performance of the  solution and services is subject to levying penalties as specified in the following sections. 
+This section indicates the suggested SLA between CCBL and Bidder for the project. A set of parameters has 
+been identified as key to the successful implementation of the Project. If the performance of Bidder in respect  of any parameter falls below the prescribed tolerance limit, a penalty is imposed for the breach. All the  payments to Bidder are linked to the compliance with the SLA metrics specified down in this section. During  the contract period, it is envisaged that there could be changes to the SLAs, in terms of addition, alteration or  deletion of certain parameters, based on mutual consent of both the parties i.e., CCBL and Bidder. 
+This section describes the service levels to be established for the services offered by the Bidder. Bidder shall  monitor and maintain the stated service levels to provide quality service.  Penalties & Service Level Agreement 
+Bidder shall have to enter into “Service Levels Agreement” with Bank covering all terms and conditions of this  tender while providing the service support and onsite/offsite support. Once go-live of application, the services  should be available on 365X24x7 basis and hence any technical problem should be resolved within 30 minutes  of  first  incident report.  
+Bidder is expected to response and resolve issue within prescribed time frame based on the severity  description decided by Bank mentioned above and needs to strictly adhere to Server Level Agreement (SLA).  
+The Bank would expect Bidder to commit to the service level assurances. Bidder shall commit to maintain  uptime of 99.95% and above per month.  
+The SLA will be reviewed on a monthly basis. Penalties will be applicable due to downtime of software  application.  
+Bidder shall guarantee 99.95% uptime required for Application, Switch services and DC & DR infrastructure  services. Bidder shall be liable for penalties for uptime maintained below 99.95% in a quarter. Bidder should  provide system generated availability report for each quarter. Uptime availability could be calculated as  below: 
+ Uptime Availability in %= {(U – C )– D}/ (U – C) 
+Refer to the below definitions of the parameters. 
+Cancellation of Contract and Compensation: 
+The BANK reserves the right to cancel the contract of Bidder and recover expenditure incurred by the bank on  the following circumstances: - 
+i.  Bidder commits a breach of any of the terms and conditions of the bid/contract. 
+ii.  Bidder goes into liquidation voluntarily or otherwise. 
+iii.  An attachment is levied or continues to be levied for a period of 7 days upon effects of the bid. 
+iv.  The progress regarding execution of the contract, made by Bidder is found to be unsatisfactory. 
+v.  After the award of the contract, if Bidder does not perform satisfactorily or delays execution of the 
+contract, the BANK reserves the right to get the balance contract executed by another party of its  choice by giving one-month notice for the same. In this event, Bidder is bound to make good the  additional expenditure, which the BANK may have to incur to carry out bidding process for the  execution of the balance of the contract. This clause is applicable, if for any reason, the contract is 
+canceled. 
+Time Schedule of the Project: 
+Bidder is expected to adhere to the following timelines: 
+Solutions  Activity 
+Timeline 
+M1  M2  M3 
+Mobile Banking  Solution 
+Delivery, installation, customization, UAT and go-live of  Mobile Banking solution on respective play store / Apple Store /   equivalent for at-least Android and IOS 
+IMPS Switch &  Solution 
+Delivery, installation, customization, UAT, Testing for  NPCI certification and go-live of IMPS Switch solution 
+UPI Switch &  Solution for Issuer  
+Delivery, installation, customization, UAT, Testing for  NPCI certification and go-live of UPI solution for Issuer  
+Bidder is expected to integrate the solution with Bank’s applications. 
+Interface  
+Bidder should provide application interface to Bank’s Core Banking Solution (Existing and future), ATM  Switch (Existing and future), Internet Banking (Existing and future), eFRM, FRM, SMS Gateway (Existing and  future), Bank’s selected BBPOU for providing BBPS Solution as well as for new products within the tenure  with no additional cost to Bank.  
+Reconciliation Solution  
+Bidder is responsible for performing the Reconciliation of all the delivery channels on T+1 calendar day/real- time as per the regulatory guidelines or as per the requirement of the Bank. In future, if there is any change  in the reconciliation process as per the regulatory guidelines or as per the requirement of the Bank then the  same has to be carried out or to be implemented without any additional cost to the Bank. (All statutory  changes within a project tenure will not be considered as Change Management and no additional cost will  be paid to the Bidder) 
+One time Cost: 
+One time cost should include Implementation charges, Development charges, API development between  CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for proposed application,  Training , Customization, Infrastructure setup and allocation etc. and will be paid for all applications such as  Mobile Banking, IMPS and UPI after successful implementation (Go-live), sign off and acceptance by the bank  as below: 
+ Transaction Cost (Operational Expenditure): 
+Successful Financial and Non-Financial Transaction cost will be paid quarterly in arrears as per rate mentioned  in commercial Bill of Material.  
+Customization Cost (if Any) 
+i. 75% of customization cost on actual will be paid after successful implementation post UAT of the 
+customization point and sign off and acceptance by the Bank. 
+ii. 25% of the customization cost will be paid after 1 month post GO LIVE or completion of customized points 
+and sign off and acceptance by the Bank 
+iii. Customization cost (if any) starts only after successful completion of all requirement points mentioned in 
+section - 7.2 and sign-off by the Bank. The customization cost will be mutually decided based on man days  efforts quoted by the vendor mentioned in non TCO item. 
+Reconciliation Cost 
+100% of cost will be paid quarterly in arrears as per the rate mentioned in commercial Bill of Material for all  successful financial reconciled transactions and sign off and acceptance by the Bank. Bidder has to submit the  appropriate quarterly report to justify the tax invoice. 
+Service Level Agreement
+The project is service-oriented and the operational portion of the agreement between CCBL and Bidder will be in  the form of a Service Level Agreement (SLA). The SLA specifies the expected levels of service to be provided  by Bidder to CCBL. This expected level is also called the baseline. Any degradation in the performance of the  solution and services is subject to levying penalties as specified in the following sections. 
+This section indicates the suggested SLA between CCBL and Bidder for the project. A set of parameters has 
+been identified as key to the successful implementation of the Project. If the performance of Bidder in respect  of any parameter falls below the prescribed tolerance limit, a penalty is imposed for the breach. All the  payments to Bidder are linked to the compliance with the SLA metrics specified down in this section. During  the contract period, it is envisaged that there could be changes to the SLAs, in terms of addition, alteration or  deletion of certain parameters, based on mutual consent of both the parties i.e., CCBL and Bidder. 
+This section describes the service levels to be established for the services offered by the Bidder. Bidder shall  monitor and maintain the stated service levels to provide quality service.  Penalties & Service Level Agreement 
+Bidder shall have to enter into “Service Levels Agreement” with Bank covering all terms and conditions of this  tender while providing the service support and onsite/offsite support. Once go-live of application, the services  should be available on 365X24x7 basis and hence any technical problem should be resolved within 30 minutes  of  first  incident report.  
+Bidder is expected to response and resolve issue within prescribed time frame based on the severity  description decided by Bank mentioned above and needs to strictly adhere to Server Level Agreement (SLA).  
+The Bank would expect Bidder to commit to the service level assurances. Bidder shall commit to maintain  uptime of 99.95% and above per month.  
+The SLA will be reviewed on a monthly basis. Penalties will be applicable due to downtime of software  application.  
+Bidder shall guarantee 99.95% uptime required for Application, Switch services and DC & DR infrastructure  services. Bidder shall be liable for penalties for uptime maintained below 99.95% in a quarter. Bidder should  provide system generated availability report for each quarter. Uptime availability could be calculated as  below: 
+ Uptime Availability in %= {(U – C )– D}/ (U – C) 
+Refer to the below definitions of the parameters. 
+Cancellation of Contract and Compensation: 
+The BANK reserves the right to cancel the contract of Bidder and recover expenditure incurred by the bank on  the following circumstances: - 
+i.  Bidder commits a breach of any of the terms and conditions of the bid/contract. 
+ii.  Bidder goes into liquidation voluntarily or otherwise. 
+iii.  An attachment is levied or continues to be levied for a period of 7 days upon effects of the bid. 
+iv.  The progress regarding execution of the contract, made by Bidder is found to be unsatisfactory. 
+v.  After the award of the contract, if Bidder does not perform satisfactorily or delays execution of the 
+contract, the BANK reserves the right to get the balance contract executed by another party of its  choice by giving one-month notice for the same. In this event, Bidder is bound to make good the  additional expenditure, which the BANK may have to incur to carry out bidding process for the  execution of the balance of the contract. This clause is applicable, if for any reason, the contract is 
+canceled. 
+Time Schedule of the Project: 
+Bidder is expected to adhere to the following timelines: 
+Solutions  Activity 
+Timeline 
+M1  M2  M3 
+Mobile Banking  Solution 
+Delivery, installation, customization, UAT and go-live of  Mobile Banking solution on respective play store / Apple Store /   equivalent for at-least Android and IOS 
+IMPS Switch &  Solution 
+Delivery, installation, customization, UAT, Testing for  NPCI certification and go-live of IMPS Switch solution 
+UPI Switch &  Solution for Issuer  
+Delivery, installation, customization, UAT, Testing for  NPCI certification and go-live of UPI solution for Issuer  
+Bidder is expected to integrate the solution with Bank’s applications. 
+Interface  
+Bidder should provide application interface to Bank’s Core Banking Solution (Existing and future), ATM  Switch (Existing and future), Internet Banking (Existing and future), eFRM, FRM, SMS Gateway (Existing and  future), Bank’s selected BBPOU for providing BBPS Solution as well as for new products within the tenure  with no additional cost to Bank.  
+Reconciliation Solution  
+Bidder is responsible for performing the Reconciliation of all the delivery channels on T+1 calendar day/real- time as per the regulatory guidelines or as per the requirement of the Bank. In future, if there is any change  in the reconciliation process as per the regulatory guidelines or as per the requirement of the Bank then the  same has to be carried out or to be implemented without any additional cost to the Bank. (All statutory  changes within a project tenure will not be considered as Change Management and no additional cost will  be paid to the Bidder) 
+One time Cost: 
+One time cost should include Implementation charges, Development charges, API development between  CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for proposed application,  Training , Customization, Infrastructure setup and allocation etc. and will be paid for all applications such as  Mobile Banking, IMPS and UPI after successful implementation (Go-live), sign off and acceptance by the bank  as below: 
+ Transaction Cost (Operational Expenditure): 
+Successful Financial and Non-Financial Transaction cost will be paid quarterly in arrears as per rate mentioned  in commercial Bill of Material.  
+Customization Cost (if Any) 
+i. 75% of customization cost on actual will be paid after successful implementation post UAT of the 
+customization point and sign off and acceptance by the Bank. 
+ii. 25% of the customization cost will be paid after 1 month post GO LIVE or completion of customized points 
+and sign off and acceptance by the Bank 
+iii. Customization cost (if any) starts only after successful completion of all requirement points mentioned in 
+section - 7.2 and sign-off by the Bank. The customization cost will be mutually decided based on man days  efforts quoted by the vendor mentioned in non TCO item. 
+Reconciliation Cost 
+100% of cost will be paid quarterly in arrears as per the rate mentioned in commercial Bill of Material for all  successful financial reconciled transactions and sign off and acceptance by the Bank. Bidder has to submit the  appropriate quarterly report to justify the tax invoice. 
+Service Level Agreement
+The project is service-oriented and the operational portion of the agreement between CCBL and Bidder will be in  the form of a Service Level Agreement (SLA). The SLA specifies the expected levels of service to be provided  by Bidder to CCBL. This expected level is also called the baseline. Any degradation in the performance of the  solution and services is subject to levying penalties as specified in the following sections. 
+This section indicates the suggested SLA between CCBL and Bidder for the project. A set of parameters has 
+been identified as key to the successful implementation of the Project. If the performance of Bidder in respect  of any parameter falls below the prescribed tolerance limit, a penalty is imposed for the breach. All the  payments to Bidder are linked to the compliance with the SLA metrics specified down in this section. During  the contract period, it is envisaged that there could be changes to the SLAs, in terms of addition, alteration or  deletion of certain parameters, based on mutual consent of both the parties i.e., CCBL and Bidder. 
+This section describes the service levels to be established for the services offered by the Bidder. Bidder shall  monitor and maintain the stated service levels to provide quality service.  Penalties & Service Level Agreement 
+Bidder shall have to enter into “Service Levels Agreement” with Bank covering all terms and conditions of this  tender while providing the service support and onsite/offsite support. Once go-live of application, the services  should be available on 365X24x7 basis and hence any technical problem should be resolved within 30 minutes  of  first  incident report.  
+Bidder is expected to response and resolve issue within prescribed time frame based on the severity  description decided by Bank mentioned above and needs to strictly adhere to Server Level Agreement (SLA).  
+The Bank would expect Bidder to commit to the service level assurances. Bidder shall commit to maintain  uptime of 99.95% and above per month.  
+The SLA will be reviewed on a monthly basis. Penalties will be applicable due to downtime of software  application.  
+Bidder shall guarantee 99.95% uptime required for Application, Switch services and DC & DR infrastructure  services. Bidder shall be liable for penalties for uptime maintained below 99.95% in a quarter. Bidder should  provide system generated availability report for each quarter. Uptime availability could be calculated as  below: 
+ Uptime Availability in %= {(U – C )– D}/ (U – C) 
+Refer to the below definitions of the parameters. 
+Cancellation of Contract and Compensation: 
+The BANK reserves the right to cancel the contract of Bidder and recover expenditure incurred by the bank on  the following circumstances: - 
+i.  Bidder commits a breach of any of the terms and conditions of the bid/contract. 
+ii.  Bidder goes into liquidation voluntarily or otherwise. 
+iii.  An attachment is levied or continues to be levied for a period of 7 days upon effects of the bid. 
+iv.  The progress regarding execution of the contract, made by Bidder is found to be unsatisfactory. 
+v.  After the award of the contract, if Bidder does not perform satisfactorily or delays execution of the 
+contract, the BANK reserves the right to get the balance contract executed by another party of its  choice by giving one-month notice for the same. In this event, Bidder is bound to make good the  additional expenditure, which the BANK may have to incur to carry out bidding process for the  execution of the balance of the contract. This clause is applicable, if for any reason, the contract is 
+canceled. 
+Time Schedule of the Project: 
+Bidder is expected to adhere to the following timelines: 
+Solutions  Activity 
+Timeline 
+M1  M2  M3 
+Mobile Banking  Solution 
+Delivery, installation, customization, UAT and go-live of  Mobile Banking solution on respective play store / Apple Store /   equivalent for at-least Android and IOS 
+IMPS Switch &  Solution 
+Delivery, installation, customization, UAT, Testing for  NPCI certification and go-live of IMPS Switch solution 
+UPI Switch &  Solution for Issuer  
+Delivery, installation, customization, UAT, Testing for  NPCI certification and go-live of UPI solution for Issuer  
+Bidder is expected to integrate the solution with Bank’s applications. 
+Interface  
+Bidder should provide application interface to Bank’s Core Banking Solution (Existing and future), ATM  Switch (Existing and future), Internet Banking (Existing and future), eFRM, FRM, SMS Gateway (Existing and  future), Bank’s selected BBPOU for providing BBPS Solution as well as for new products within the tenure  with no additional cost to Bank.  
+Reconciliation Solution  
+Bidder is responsible for performing the Reconciliation of all the delivery channels on T+1 calendar day/real- time as per the regulatory guidelines or as per the requirement of the Bank. In future, if there is any change  in the reconciliation process as per the regulatory guidelines or as per the requirement of the Bank then the  same has to be carried out or to be implemented without any additional cost to the Bank. (All statutory  changes within a project tenure will not be considered as Change Management and no additional cost will  be paid to the Bidder) 
+One time Cost: 
+One time cost should include Implementation charges, Development charges, API development between  CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for proposed application,  Training , Customization, Infrastructure setup and allocation etc. and will be paid for all applications such as  Mobile Banking, IMPS and UPI after successful implementation (Go-live), sign off and acceptance by the bank  as below: 
+ Transaction Cost (Operational Expenditure): 
+Successful Financial and Non-Financial Transaction cost will be paid quarterly in arrears as per rate mentioned  in commercial Bill of Material.  
+Customization Cost (if Any) 
+i. 75% of customization cost on actual will be paid after successful implementation post UAT of the 
+customization point and sign off and acceptance by the Bank. 
+ii. 25% of the customization cost will be paid after 1 month post GO LIVE or completion of customized points 
+and sign off and acceptance by the Bank 
+iii. Customization cost (if any) starts only after successful completion of all requirement points mentioned in 
+section - 7.2 and sign-off by the Bank. The customization cost will be mutually decided based on man days  efforts quoted by the vendor mentioned in non TCO item. 
+Reconciliation Cost 
+100% of cost will be paid quarterly in arrears as per the rate mentioned in commercial Bill of Material for all  successful financial reconciled transactions and sign off and acceptance by the Bank. Bidder has to submit the  appropriate quarterly report to justify the tax invoice. 
+Service Level Agreement
+The project is service-oriented and the operational portion of the agreement between CCBL and Bidder will be in  the form of a Service Level Agreement (SLA). The SLA specifies the expected levels of service to be provided  by Bidder to CCBL. This expected level is also called the baseline. Any degradation in the performance of the  solution and services is subject to levying penalties as specified in the following sections. 
+This section indicates the suggested SLA between CCBL and Bidder for the project. A set of parameters has 
+been identified as key to the successful implementation of the Project. If the performance of Bidder in respect  of any parameter falls below the prescribed tolerance limit, a penalty is imposed for the breach. All the  payments to Bidder are linked to the compliance with the SLA metrics specified down in this section. During  the contract period, it is envisaged that there could be changes to the SLAs, in terms of addition, alteration or  deletion of certain parameters, based on mutual consent of both the parties i.e., CCBL and Bidder. 
+This section describes the service levels to be established for the services offered by the Bidder. Bidder shall  monitor and maintain the stated service levels to provide quality service.  Penalties & Service Level Agreement 
+Bidder shall have to enter into “Service Levels Agreement” with Bank covering all terms and conditions of this  tender while providing the service support and onsite/offsite support. Once go-live of application, the services  should be available on 365X24x7 basis and hence any technical problem should be resolved within 30 minutes  of  first  incident report.  
+Bidder is expected to response and resolve issue within prescribed time frame based on the severity  description decided by Bank mentioned above and needs to strictly adhere to Server Level Agreement (SLA).  
+The Bank would expect Bidder to commit to the service level assurances. Bidder shall commit to maintain  uptime of 99.95% and above per month.  
+The SLA will be reviewed on a monthly basis. Penalties will be applicable due to downtime of software  application.  
+Bidder shall guarantee 99.95% uptime required for Application, Switch services and DC & DR infrastructure  services. Bidder shall be liable for penalties for uptime maintained below 99.95% in a quarter. Bidder should  provide system generated availability report for each quarter. Uptime availability could be calculated as  below: 
+ Uptime Availability in %= {(U – C )– D}/ (U – C) 
+Refer to the below definitions of the parameters. 
+Cancellation of Contract and Compensation: 
+The BANK reserves the right to cancel the contract of Bidder and recover expenditure incurred by the bank on  the following circumstances: - 
+i.  Bidder commits a breach of any of the terms and conditions of the bid/contract. 
+ii.  Bidder goes into liquidation voluntarily or otherwise. 
+iii.  An attachment is levied or continues to be levied for a period of 7 days upon effects of the bid. 
+iv.  The progress regarding execution of the contract, made by Bidder is found to be unsatisfactory. 
+v.  After the award of the contract, if Bidder does not perform satisfactorily or delays execution of the 
+contract, the BANK reserves the right to get the balance contract executed by another party of its  choice by giving one-month notice for the same. In this event, Bidder is bound to make good the  additional expenditure, which the BANK may have to incur to carry out bidding process for the  execution of the balance of the contract. This clause is applicable, if for any reason, the contract is 
+canceled. 
+Time Schedule of the Project: 
+Bidder is expected to adhere to the following timelines: 
+Solutions  Activity 
+Timeline 
+M1  M2  M3 
+Mobile Banking  Solution 
+Delivery, installation, customization, UAT and go-live of  Mobile Banking solution on respective play store / Apple Store /   equivalent for at-least Android and IOS 
+IMPS Switch &  Solution 
+Delivery, installation, customization, UAT, Testing for  NPCI certification and go-live of IMPS Switch solution 
+UPI Switch &  Solution for Issuer  
+Delivery, installation, customization, UAT, Testing for  NPCI certification and go-live of UPI solution for Issuer  
+Bidder is expected to integrate the solution with Bank’s applications. 
+Interface  
+Bidder should provide application interface to Bank’s Core Banking Solution (Existing and future), ATM  Switch (Existing and future), Internet Banking (Existing and future), eFRM, FRM, SMS Gateway (Existing and  future), Bank’s selected BBPOU for providing BBPS Solution as well as for new products within the tenure  with no additional cost to Bank.  
+Reconciliation Solution  
+Bidder is responsible for performing the Reconciliation of all the delivery channels on T+1 calendar day/real- time as per the regulatory guidelines or as per the requirement of the Bank. In future, if there is any change  in the reconciliation process as per the regulatory guidelines or as per the requirement of the Bank then the  same has to be carried out or to be implemented without any additional cost to the Bank. (All statutory  changes within a project tenure will not be considered as Change Management and no additional cost will  be paid to the Bidder) 
+One time Cost: 
+One time cost should include Implementation charges, Development charges, API development between  CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for proposed application,  Training , Customization, Infrastructure setup and allocation etc. and will be paid for all applications such as  Mobile Banking, IMPS and UPI after successful implementation (Go-live), sign off and acceptance by the bank  as below: 
+ Transaction Cost (Operational Expenditure): 
+Successful Financial and Non-Financial Transaction cost will be paid quarterly in arrears as per rate mentioned  in commercial Bill of Material.  
+Customization Cost (if Any) 
+i. 75% of customization cost on actual will be paid after successful implementation post UAT of the 
+customization point and sign off and acceptance by the Bank. 
+ii. 25% of the customization cost will be paid after 1 month post GO LIVE or completion of customized points 
+and sign off and acceptance by the Bank 
+iii. Customization cost (if any) starts only after successful completion of all requirement points mentioned in 
+section - 7.2 and sign-off by the Bank. The customization cost will be mutually decided based on man days  efforts quoted by the vendor mentioned in non TCO item. 
+Reconciliation Cost 
+100% of cost will be paid quarterly in arrears as per the rate mentioned in commercial Bill of Material for all  successful financial reconciled transactions and sign off and acceptance by the Bank. Bidder has to submit the  appropriate quarterly report to justify the tax invoice. 
+Service Level Agreement
+The project is service-oriented and the operational portion of the agreement between CCBL and Bidder will be in  the form of a Service Level Agreement (SLA). The SLA specifies the expected levels of service to be provided  by Bidder to CCBL. This expected level is also called the baseline. Any degradation in the performance of the  solution and services is subject to levying penalties as specified in the following sections. 
+This section indicates the suggested SLA between CCBL and Bidder for the project. A set of parameters has 
+been identified as key to the successful implementation of the Project. If the performance of Bidder in respect  of any parameter falls below the prescribed tolerance limit, a penalty is imposed for the breach. All the  payments to Bidder are linked to the compliance with the SLA metrics specified down in this section. During  the contract period, it is envisaged that there could be changes to the SLAs, in terms of addition, alteration or  deletion of certain parameters, based on mutual consent of both the parties i.e., CCBL and Bidder. 
+This section describes the service levels to be established for the services offered by the Bidder. Bidder shall  monitor and maintain the stated service levels to provide quality service.  Penalties & Service Level Agreement 
+Bidder shall have to enter into “Service Levels Agreement” with Bank covering all terms and conditions of this  tender while providing the service support and onsite/offsite support. Once go-live of application, the services  should be available on 365X24x7 basis and hence any technical problem should be resolved within 30 minutes  of  first  incident report.  
+Bidder is expected to response and resolve issue within prescribed time frame based on the severity  description decided by Bank mentioned above and needs to strictly adhere to Server Level Agreement (SLA).  
+The Bank would expect Bidder to commit to the service level assurances. Bidder shall commit to maintain  uptime of 99.95% and above per month.  
+The SLA will be reviewed on a monthly basis. Penalties will be applicable due to downtime of software  application.  
+Bidder shall guarantee 99.95% uptime required for Application, Switch services and DC & DR infrastructure  services. Bidder shall be liable for penalties for uptime maintained below 99.95% in a quarter. Bidder should  provide system generated availability report for each quarter. Uptime availability could be calculated as  below: 
+ Uptime Availability in %= {(U – C )– D}/ (U – C) 
+Refer to the below definitions of the parameters. 
+Cancellation of Contract and Compensation: 
+The BANK reserves the right to cancel the contract of Bidder and recover expenditure incurred by the bank on  the following circumstances: - 
+i.  Bidder commits a breach of any of the terms and conditions of the bid/contract. 
+ii.  Bidder goes into liquidation voluntarily or otherwise. 
+iii.  An attachment is levied or continues to be levied for a period of 7 days upon effects of the bid. 
+iv.  The progress regarding execution of the contract, made by Bidder is found to be unsatisfactory. 
+v.  After the award of the contract, if Bidder does not perform satisfactorily or delays execution of the 
+contract, the BANK reserves the right to get the balance contract executed by another party of its  choice by giving one-month notice for the same. In this event, Bidder is bound to make good the  additional expenditure, which the BANK may have to incur to carry out bidding process for the  execution of the balance of the contract. This clause is applicable, if for any reason, the contract is 
+canceled. 
+Time Schedule of the Project: 
+Bidder is expected to adhere to the following timelines: 
+Solutions  Activity 
+Timeline 
+M1  M2  M3 
+Mobile Banking  Solution 
+Delivery, installation, customization, UAT and go-live of  Mobile Banking solution on respective play store / Apple Store /   equivalent for at-least Android and IOS 
+IMPS Switch &  Solution 
+Delivery, installation, customization, UAT, Testing for  NPCI certification and go-live of IMPS Switch solution 
+UPI Switch &  Solution for Issuer  
+Delivery, installation, customization, UAT, Testing for  NPCI certification and go-live of UPI solution for Issuer  
+Bidder is expected to integrate the solution with Bank’s applications. 
+Interface  
+Bidder should provide application interface to Bank’s Core Banking Solution (Existing and future), ATM  Switch (Existing and future), Internet Banking (Existing and future), eFRM, FRM, SMS Gateway (Existing and  future), Bank’s selected BBPOU for providing BBPS Solution as well as for new products within the tenure  with no additional cost to Bank.  
+Reconciliation Solution  
+Bidder is responsible for performing the Reconciliation of all the delivery channels on T+1 calendar day/real- time as per the regulatory guidelines or as per the requirement of the Bank. In future, if there is any change  in the reconciliation process as per the regulatory guidelines or as per the requirement of the Bank then the  same has to be carried out or to be implemented without any additional cost to the Bank. (All statutory  changes within a project tenure will not be considered as Change Management and no additional cost will  be paid to the Bidder) 
+One time Cost: 
+One time cost should include Implementation charges, Development charges, API development between  CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for proposed application,  Training , Customization, Infrastructure setup and allocation etc. and will be paid for all applications such as  Mobile Banking, IMPS and UPI after successful implementation (Go-live), sign off and acceptance by the bank  as below: 
+ Transaction Cost (Operational Expenditure): 
+Successful Financial and Non-Financial Transaction cost will be paid quarterly in arrears as per rate mentioned  in commercial Bill of Material.  
+Customization Cost (if Any) 
+i. 75% of customization cost on actual will be paid after successful implementation post UAT of the 
+customization point and sign off and acceptance by the Bank. 
+ii. 25% of the customization cost will be paid after 1 month post GO LIVE or completion of customized points 
+and sign off and acceptance by the Bank 
+iii. Customization cost (if any) starts only after successful completion of all requirement points mentioned in 
+section - 7.2 and sign-off by the Bank. The customization cost will be mutually decided based on man days  efforts quoted by the vendor mentioned in non TCO item. 
+Reconciliation Cost 
+100% of cost will be paid quarterly in arrears as per the rate mentioned in commercial Bill of Material for all  successful financial reconciled transactions and sign off and acceptance by the Bank. Bidder has to submit the  appropriate quarterly report to justify the tax invoice. 
+Service Level Agreement
+The project is service-oriented and the operational portion of the agreement between CCBL and Bidder will be in  the form of a Service Level Agreement (SLA). The SLA specifies the expected levels of service to be provided  by Bidder to CCBL. This expected level is also called the baseline. Any degradation in the performance of the  solution and services is subject to levying penalties as specified in the following sections. 
+This section indicates the suggested SLA between CCBL and Bidder for the project. A set of parameters has 
+been identified as key to the successful implementation of the Project. If the performance of Bidder in respect  of any parameter falls below the prescribed tolerance limit, a penalty is imposed for the breach. All the  payments to Bidder are linked to the compliance with the SLA metrics specified down in this section. During  the contract period, it is envisaged that there could be changes to the SLAs, in terms of addition, alteration or  deletion of certain parameters, based on mutual consent of both the parties i.e., CCBL and Bidder. 
+This section describes the service levels to be established for the services offered by the Bidder. Bidder shall  monitor and maintain the stated service levels to provide quality service.  Penalties & Service Level Agreement 
+Bidder shall have to enter into “Service Levels Agreement” with Bank covering all terms and conditions of this  tender while providing the service support and onsite/offsite support. Once go-live of application, the services  should be available on 365X24x7 basis and hence any technical problem should be resolved within 30 minutes  of  first  incident report.  
+Bidder is expected to response and resolve issue within prescribed time frame based on the severity  description decided by Bank mentioned above and needs to strictly adhere to Server Level Agreement (SLA).  
+The Bank would expect Bidder to commit to the service level assurances. Bidder shall commit to maintain  uptime of 99.95% and above per month.  
+The SLA will be reviewed on a monthly basis. Penalties will be applicable due to downtime of software  application.  
+Bidder shall guarantee 99.95% uptime required for Application, Switch services and DC & DR infrastructure  services. Bidder shall be liable for penalties for uptime maintained below 99.95% in a quarter. Bidder should  provide system generated availability report for each quarter. Uptime availability could be calculated as  below: 
+ Uptime Availability in %= {(U – C )– D}/ (U – C) 
+Refer to the below definitions of the parameters. 

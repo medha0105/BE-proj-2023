@@ -1,0 +1,2 @@
+Interface  
+Bidder should provide application interface to Bank’s Core Banking Solution (Existing and future), ATM  Switch (Existing and future), Internet Banking (Existing and future), eFRM, FRM, SMS Gateway (Existing and  future), Bank’s selected BBPOU for providing BBPS Solution as well as for new products within the tenure  with no additional cost to Bank.  

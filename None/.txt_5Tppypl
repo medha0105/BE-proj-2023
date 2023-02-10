@@ -1,0 +1,8 @@
+Interface  
+Bidder should provide application interface to Bank’s Core Banking Solution (Existing and future), ATM  Switch (Existing and future), Internet Banking (Existing and future), eFRM, FRM, SMS Gateway (Existing and  future), Bank’s selected BBPOU for providing BBPS Solution as well as for new products within the tenure  with no additional cost to Bank.  
+Reconciliation Solution  
+Bidder is responsible for performing the Reconciliation of all the delivery channels on T+1 calendar day/real- time as per the regulatory guidelines or as per the requirement of the Bank. In future, if there is any change  in the reconciliation process as per the regulatory guidelines or as per the requirement of the Bank then the  same has to be carried out or to be implemented without any additional cost to the Bank. (All statutory  changes within a project tenure will not be considered as Change Management and no additional cost will  be paid to the Bidder) 
+One time Cost: 
+One time cost should include Implementation charges, Development charges, API development between  CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for proposed application,  Training , Customization, Infrastructure setup and allocation etc. and will be paid for all applications such as  Mobile Banking, IMPS and UPI after successful implementation (Go-live), sign off and acceptance by the bank  as below: 

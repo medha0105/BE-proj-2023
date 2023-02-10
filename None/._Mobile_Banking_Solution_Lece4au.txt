@@ -1,0 +1,697 @@
+i. The proposed Mobile Banking Solution should be implemented interfacing with Bank’s Core 
+Banking Solution. The proposed solution should have functionality for handling retail as well as  corporate customers of Bank on Mobile Channel. The proposed solution should also support  interfacing with ATM switch, Internet banking, interfacing with BBPOU for BBPS and other  channels of the Bank (Existing and future within a project tenure) for seamless integration,  parameterization, customization etc. 
+ii. The solution should include, but not limited to, the following: 
+a) The solution should deliver the listed services as given in the scope document.   b) Bidder should implement the solution at Bidder DC, DR-Site and UAT environment.  
+iii. Any software required / needed for making the solution live and running to be provided by 
+Bidder throughout the contract period without any additional cost to the Bank. 
+iv. The proposed solution should be compatible in terms of communication/ synchronization with 
+Bank’s Core Banking Solution. 
+v. To provide support for trouble shooting and enhancements in the Services during the contract.  vi. To implement proposed Mobile Banking solution by interfacing with Bank’s Core Banking 
+application and interfacing with NPCI for IMPS, UPI, BHIM, BBPS or any other services offered  by NPCI (Existing and future) with in a project tenure without any additional cost to the Bank. 
+vii. The proposed solution should also support interfacing with Financial Transaction Switches 
+proposed by Bidder for seamless integration, parameterization, customization etc. as required  with appropriate security guidelines issued by all statutory authority within a project tenure  without any additional cost to the Bank. 
+viii. The solution should be integrated online banking channel offering a central transaction 
+management, business logic orchestration and application administration. Single integration  with host systems with a unified data architecture model. 
+ix. The solution offered should comply with all the Operative Guidelines for Mobile Banking 
+Transactions in India issued by all statutory authority. The solution should also comply with any  further guidelines and mandates issued by all statutory authority for Mobile Banking  Transactions. Bidder has to undertake to incorporate, at no cost to the Bank, suitable changes  in the solution including the software, procedure and operations as required from time to time  to comply with any new rules of Indian Law or new rules from RBI/IBA/MFI/NPCI/Bank for  providing the Mobile Banking services to The Bank. 
+x. The solution should be compatible with all the Mobile Platforms meeting the industry standard 
+but not limited to Android and iOS. Bidder should ensure the compatibility of solution provided  for all the impending updates / upgrades of various Mobile Platforms without any additional  cost to the Bank. Bidder should also ensure the availability of solution for any new Mobile  Platform within 1 month from the date of its launch without any additional cost to the Bank. 
+xi. The proposed solution should be compatible with all the Basic Mobile Phones, versions, Feature 
+Phones, and Smartphones & Tablets meeting the industry standards. 
+xii. The proposed solution should be able to provide various MIS reports required time to time to 
+the Bank management and/or statutory authorities within a project tenure without any 
+additional cost to the Bank and which should be configurable in nature. 
+xiii. The proposed solution should follow an enterprise model (perpetual license) at Corporate Level 
+and there should not be any restriction in terms of number of users or volume of transactions  in either way for Android and iOS. 
+xiv. Bidder has to ensure the flawless switching of all the services under purview of this RFQ to 
+Disaster Recovery (DR) site during DR drill as and when decided by Bank/statutory authority or  in case of non-availability of primary / DC site. 
+xv. The proposed solution should be well versed with functionality as of now to support English 
+language. In future if the Bank wish to/mandatory required any additional languages within the  project tenure, Bidder without any additional cost to the Bank. 
+xvi. Bidder has to offer technical and functional support of the service for contract tenure post 
+implementation of solution. During the project tenure, Bidder must provide onsite technical  and functional resources for providing support to the Bank’s staff as and when required. 
+xvii. Bidder will be required to provide technical support to Bank during the entire contract period.  xviii. For any new platform/model/OS/upgrade, Bidder will provide complete functional and 
+technical solution/ features/ application within thirty days of launch in India. 
+xix. The proposed solution should be compliant with the RBI Working group document on 
+“Information Security, Electronic Banking, Technology Risk Management and Cyber Frauds”  dated Jan 2011, such as for confidentiality and security and Cyber Security guideline June’ 2016  and subsequent guidelines. 
+xx. Bidder needs to mention any other security feature supported by the system with details and 
+architecture of security components. Bidder should provide an application to the Bank Staff,  Bank Call Centre Users and any other user designated by the Bank for real time transactions  monitoring with related reports, complaint tracking module along with customer management.  Bidder will have to include version upgrade and enhancements in services on account of  industry dynamics as a part of the Annual Maintenance. Any development work of such type  will be carried out by the technical team of Bidder. 
+xxi. Bidder must undertake suitable changes in the solution including the software, procedure and 
+operations as required from time to time to comply with any new rules of Indian  Law/RBI/IBA/MFI/TRAI/Govt. of India/NPCI and other Regulators for Mobile Banking services. 
+xxii. Bidder will have to provide a detailed process for registration and activation of mobile banking. 
+The process needs to be simple, easy to understand and secured for better acceptability by  consumers with minimum technical knowledge. 
+i. The proposed Mobile Banking Solution should be implemented interfacing with Bank’s Core 
+Banking Solution. The proposed solution should have functionality for handling retail as well as  corporate customers of Bank on Mobile Channel. The proposed solution should also support  interfacing with ATM switch, Internet banking, interfacing with BBPOU for BBPS and other  channels of the Bank (Existing and future within a project tenure) for seamless integration,  parameterization, customization etc. 
+ii. The solution should include, but not limited to, the following: 
+a) The solution should deliver the listed services as given in the scope document.   b) Bidder should implement the solution at Bidder DC, DR-Site and UAT environment.  
+iii. Any software required / needed for making the solution live and running to be provided by 
+Bidder throughout the contract period without any additional cost to the Bank. 
+iv. The proposed solution should be compatible in terms of communication/ synchronization with 
+Bank’s Core Banking Solution. 
+v. To provide support for trouble shooting and enhancements in the Services during the contract.  vi. To implement proposed Mobile Banking solution by interfacing with Bank’s Core Banking 
+application and interfacing with NPCI for IMPS, UPI, BHIM, BBPS or any other services offered  by NPCI (Existing and future) with in a project tenure without any additional cost to the Bank. 
+vii. The proposed solution should also support interfacing with Financial Transaction Switches 
+proposed by Bidder for seamless integration, parameterization, customization etc. as required  with appropriate security guidelines issued by all statutory authority within a project tenure  without any additional cost to the Bank. 
+viii. The solution should be integrated online banking channel offering a central transaction 
+management, business logic orchestration and application administration. Single integration  with host systems with a unified data architecture model. 
+ix. The solution offered should comply with all the Operative Guidelines for Mobile Banking 
+Transactions in India issued by all statutory authority. The solution should also comply with any  further guidelines and mandates issued by all statutory authority for Mobile Banking  Transactions. Bidder has to undertake to incorporate, at no cost to the Bank, suitable changes  in the solution including the software, procedure and operations as required from time to time  to comply with any new rules of Indian Law or new rules from RBI/IBA/MFI/NPCI/Bank for  providing the Mobile Banking services to The Bank. 
+x. The solution should be compatible with all the Mobile Platforms meeting the industry standard 
+but not limited to Android and iOS. Bidder should ensure the compatibility of solution provided  for all the impending updates / upgrades of various Mobile Platforms without any additional  cost to the Bank. Bidder should also ensure the availability of solution for any new Mobile  Platform within 1 month from the date of its launch without any additional cost to the Bank. 
+xi. The proposed solution should be compatible with all the Basic Mobile Phones, versions, Feature 
+Phones, and Smartphones & Tablets meeting the industry standards. 
+xii. The proposed solution should be able to provide various MIS reports required time to time to 
+the Bank management and/or statutory authorities within a project tenure without any 
+additional cost to the Bank and which should be configurable in nature. 
+xiii. The proposed solution should follow an enterprise model (perpetual license) at Corporate Level 
+and there should not be any restriction in terms of number of users or volume of transactions  in either way for Android and iOS. 
+xiv. Bidder has to ensure the flawless switching of all the services under purview of this RFQ to 
+Disaster Recovery (DR) site during DR drill as and when decided by Bank/statutory authority or  in case of non-availability of primary / DC site. 
+xv. The proposed solution should be well versed with functionality as of now to support English 
+language. In future if the Bank wish to/mandatory required any additional languages within the  project tenure, Bidder without any additional cost to the Bank. 
+xvi. Bidder has to offer technical and functional support of the service for contract tenure post 
+implementation of solution. During the project tenure, Bidder must provide onsite technical  and functional resources for providing support to the Bank’s staff as and when required. 
+xvii. Bidder will be required to provide technical support to Bank during the entire contract period.  xviii. For any new platform/model/OS/upgrade, Bidder will provide complete functional and 
+technical solution/ features/ application within thirty days of launch in India. 
+xix. The proposed solution should be compliant with the RBI Working group document on 
+“Information Security, Electronic Banking, Technology Risk Management and Cyber Frauds”  dated Jan 2011, such as for confidentiality and security and Cyber Security guideline June’ 2016  and subsequent guidelines. 
+xx. Bidder needs to mention any other security feature supported by the system with details and 
+architecture of security components. Bidder should provide an application to the Bank Staff,  Bank Call Centre Users and any other user designated by the Bank for real time transactions  monitoring with related reports, complaint tracking module along with customer management.  Bidder will have to include version upgrade and enhancements in services on account of  industry dynamics as a part of the Annual Maintenance. Any development work of such type  will be carried out by the technical team of Bidder. 
+xxi. Bidder must undertake suitable changes in the solution including the software, procedure and 
+operations as required from time to time to comply with any new rules of Indian  Law/RBI/IBA/MFI/TRAI/Govt. of India/NPCI and other Regulators for Mobile Banking services. 
+xxii. Bidder will have to provide a detailed process for registration and activation of mobile banking. 
+The process needs to be simple, easy to understand and secured for better acceptability by  consumers with minimum technical knowledge. 
+i. The proposed Mobile Banking Solution should be implemented interfacing with Bank’s Core 
+Banking Solution. The proposed solution should have functionality for handling retail as well as  corporate customers of Bank on Mobile Channel. The proposed solution should also support  interfacing with ATM switch, Internet banking, interfacing with BBPOU for BBPS and other  channels of the Bank (Existing and future within a project tenure) for seamless integration,  parameterization, customization etc. 
+ii. The solution should include, but not limited to, the following: 
+a) The solution should deliver the listed services as given in the scope document.   b) Bidder should implement the solution at Bidder DC, DR-Site and UAT environment.  
+iii. Any software required / needed for making the solution live and running to be provided by 
+Bidder throughout the contract period without any additional cost to the Bank. 
+iv. The proposed solution should be compatible in terms of communication/ synchronization with 
+Bank’s Core Banking Solution. 
+v. To provide support for trouble shooting and enhancements in the Services during the contract.  vi. To implement proposed Mobile Banking solution by interfacing with Bank’s Core Banking 
+application and interfacing with NPCI for IMPS, UPI, BHIM, BBPS or any other services offered  by NPCI (Existing and future) with in a project tenure without any additional cost to the Bank. 
+vii. The proposed solution should also support interfacing with Financial Transaction Switches 
+proposed by Bidder for seamless integration, parameterization, customization etc. as required  with appropriate security guidelines issued by all statutory authority within a project tenure  without any additional cost to the Bank. 
+viii. The solution should be integrated online banking channel offering a central transaction 
+management, business logic orchestration and application administration. Single integration  with host systems with a unified data architecture model. 
+ix. The solution offered should comply with all the Operative Guidelines for Mobile Banking 
+Transactions in India issued by all statutory authority. The solution should also comply with any  further guidelines and mandates issued by all statutory authority for Mobile Banking  Transactions. Bidder has to undertake to incorporate, at no cost to the Bank, suitable changes  in the solution including the software, procedure and operations as required from time to time  to comply with any new rules of Indian Law or new rules from RBI/IBA/MFI/NPCI/Bank for  providing the Mobile Banking services to The Bank. 
+x. The solution should be compatible with all the Mobile Platforms meeting the industry standard 
+but not limited to Android and iOS. Bidder should ensure the compatibility of solution provided  for all the impending updates / upgrades of various Mobile Platforms without any additional  cost to the Bank. Bidder should also ensure the availability of solution for any new Mobile  Platform within 1 month from the date of its launch without any additional cost to the Bank. 
+xi. The proposed solution should be compatible with all the Basic Mobile Phones, versions, Feature 
+Phones, and Smartphones & Tablets meeting the industry standards. 
+xii. The proposed solution should be able to provide various MIS reports required time to time to 
+the Bank management and/or statutory authorities within a project tenure without any 
+additional cost to the Bank and which should be configurable in nature. 
+xiii. The proposed solution should follow an enterprise model (perpetual license) at Corporate Level 
+and there should not be any restriction in terms of number of users or volume of transactions  in either way for Android and iOS. 
+xiv. Bidder has to ensure the flawless switching of all the services under purview of this RFQ to 
+Disaster Recovery (DR) site during DR drill as and when decided by Bank/statutory authority or  in case of non-availability of primary / DC site. 
+xv. The proposed solution should be well versed with functionality as of now to support English 
+language. In future if the Bank wish to/mandatory required any additional languages within the  project tenure, Bidder without any additional cost to the Bank. 
+xvi. Bidder has to offer technical and functional support of the service for contract tenure post 
+implementation of solution. During the project tenure, Bidder must provide onsite technical  and functional resources for providing support to the Bank’s staff as and when required. 
+xvii. Bidder will be required to provide technical support to Bank during the entire contract period.  xviii. For any new platform/model/OS/upgrade, Bidder will provide complete functional and 
+technical solution/ features/ application within thirty days of launch in India. 
+xix. The proposed solution should be compliant with the RBI Working group document on 
+“Information Security, Electronic Banking, Technology Risk Management and Cyber Frauds”  dated Jan 2011, such as for confidentiality and security and Cyber Security guideline June’ 2016  and subsequent guidelines. 
+xx. Bidder needs to mention any other security feature supported by the system with details and 
+architecture of security components. Bidder should provide an application to the Bank Staff,  Bank Call Centre Users and any other user designated by the Bank for real time transactions  monitoring with related reports, complaint tracking module along with customer management.  Bidder will have to include version upgrade and enhancements in services on account of  industry dynamics as a part of the Annual Maintenance. Any development work of such type  will be carried out by the technical team of Bidder. 
+xxi. Bidder must undertake suitable changes in the solution including the software, procedure and 
+operations as required from time to time to comply with any new rules of Indian  Law/RBI/IBA/MFI/TRAI/Govt. of India/NPCI and other Regulators for Mobile Banking services. 
+xxii. Bidder will have to provide a detailed process for registration and activation of mobile banking. 
+The process needs to be simple, easy to understand and secured for better acceptability by  consumers with minimum technical knowledge. 
+i. The proposed Mobile Banking Solution should be implemented interfacing with Bank’s Core 
+Banking Solution. The proposed solution should have functionality for handling retail as well as  corporate customers of Bank on Mobile Channel. The proposed solution should also support  interfacing with ATM switch, Internet banking, interfacing with BBPOU for BBPS and other  channels of the Bank (Existing and future within a project tenure) for seamless integration,  parameterization, customization etc. 
+ii. The solution should include, but not limited to, the following: 
+a) The solution should deliver the listed services as given in the scope document.   b) Bidder should implement the solution at Bidder DC, DR-Site and UAT environment.  
+iii. Any software required / needed for making the solution live and running to be provided by 
+Bidder throughout the contract period without any additional cost to the Bank. 
+iv. The proposed solution should be compatible in terms of communication/ synchronization with 
+Bank’s Core Banking Solution. 
+v. To provide support for trouble shooting and enhancements in the Services during the contract.  vi. To implement proposed Mobile Banking solution by interfacing with Bank’s Core Banking 
+application and interfacing with NPCI for IMPS, UPI, BHIM, BBPS or any other services offered  by NPCI (Existing and future) with in a project tenure without any additional cost to the Bank. 
+vii. The proposed solution should also support interfacing with Financial Transaction Switches 
+proposed by Bidder for seamless integration, parameterization, customization etc. as required  with appropriate security guidelines issued by all statutory authority within a project tenure  without any additional cost to the Bank. 
+viii. The solution should be integrated online banking channel offering a central transaction 
+management, business logic orchestration and application administration. Single integration  with host systems with a unified data architecture model. 
+ix. The solution offered should comply with all the Operative Guidelines for Mobile Banking 
+Transactions in India issued by all statutory authority. The solution should also comply with any  further guidelines and mandates issued by all statutory authority for Mobile Banking  Transactions. Bidder has to undertake to incorporate, at no cost to the Bank, suitable changes  in the solution including the software, procedure and operations as required from time to time  to comply with any new rules of Indian Law or new rules from RBI/IBA/MFI/NPCI/Bank for  providing the Mobile Banking services to The Bank. 
+x. The solution should be compatible with all the Mobile Platforms meeting the industry standard 
+but not limited to Android and iOS. Bidder should ensure the compatibility of solution provided  for all the impending updates / upgrades of various Mobile Platforms without any additional  cost to the Bank. Bidder should also ensure the availability of solution for any new Mobile  Platform within 1 month from the date of its launch without any additional cost to the Bank. 
+xi. The proposed solution should be compatible with all the Basic Mobile Phones, versions, Feature 
+Phones, and Smartphones & Tablets meeting the industry standards. 
+xii. The proposed solution should be able to provide various MIS reports required time to time to 
+the Bank management and/or statutory authorities within a project tenure without any 
+additional cost to the Bank and which should be configurable in nature. 
+xiii. The proposed solution should follow an enterprise model (perpetual license) at Corporate Level 
+and there should not be any restriction in terms of number of users or volume of transactions  in either way for Android and iOS. 
+xiv. Bidder has to ensure the flawless switching of all the services under purview of this RFQ to 
+Disaster Recovery (DR) site during DR drill as and when decided by Bank/statutory authority or  in case of non-availability of primary / DC site. 
+xv. The proposed solution should be well versed with functionality as of now to support English 
+language. In future if the Bank wish to/mandatory required any additional languages within the  project tenure, Bidder without any additional cost to the Bank. 
+xvi. Bidder has to offer technical and functional support of the service for contract tenure post 
+implementation of solution. During the project tenure, Bidder must provide onsite technical  and functional resources for providing support to the Bank’s staff as and when required. 
+xvii. Bidder will be required to provide technical support to Bank during the entire contract period.  xviii. For any new platform/model/OS/upgrade, Bidder will provide complete functional and 
+technical solution/ features/ application within thirty days of launch in India. 
+xix. The proposed solution should be compliant with the RBI Working group document on 
+“Information Security, Electronic Banking, Technology Risk Management and Cyber Frauds”  dated Jan 2011, such as for confidentiality and security and Cyber Security guideline June’ 2016  and subsequent guidelines. 
+xx. Bidder needs to mention any other security feature supported by the system with details and 
+architecture of security components. Bidder should provide an application to the Bank Staff,  Bank Call Centre Users and any other user designated by the Bank for real time transactions  monitoring with related reports, complaint tracking module along with customer management.  Bidder will have to include version upgrade and enhancements in services on account of  industry dynamics as a part of the Annual Maintenance. Any development work of such type  will be carried out by the technical team of Bidder. 
+xxi. Bidder must undertake suitable changes in the solution including the software, procedure and 
+operations as required from time to time to comply with any new rules of Indian  Law/RBI/IBA/MFI/TRAI/Govt. of India/NPCI and other Regulators for Mobile Banking services. 
+xxii. Bidder will have to provide a detailed process for registration and activation of mobile banking. 
+The process needs to be simple, easy to understand and secured for better acceptability by  consumers with minimum technical knowledge. 
+i. The proposed Mobile Banking Solution should be implemented interfacing with Bank’s Core 
+Banking Solution. The proposed solution should have functionality for handling retail as well as  corporate customers of Bank on Mobile Channel. The proposed solution should also support  interfacing with ATM switch, Internet banking, interfacing with BBPOU for BBPS and other  channels of the Bank (Existing and future within a project tenure) for seamless integration,  parameterization, customization etc. 
+ii. The solution should include, but not limited to, the following: 
+a) The solution should deliver the listed services as given in the scope document.   b) Bidder should implement the solution at Bidder DC, DR-Site and UAT environment.  
+iii. Any software required / needed for making the solution live and running to be provided by 
+Bidder throughout the contract period without any additional cost to the Bank. 
+iv. The proposed solution should be compatible in terms of communication/ synchronization with 
+Bank’s Core Banking Solution. 
+v. To provide support for trouble shooting and enhancements in the Services during the contract.  vi. To implement proposed Mobile Banking solution by interfacing with Bank’s Core Banking 
+application and interfacing with NPCI for IMPS, UPI, BHIM, BBPS or any other services offered  by NPCI (Existing and future) with in a project tenure without any additional cost to the Bank. 
+vii. The proposed solution should also support interfacing with Financial Transaction Switches 
+proposed by Bidder for seamless integration, parameterization, customization etc. as required  with appropriate security guidelines issued by all statutory authority within a project tenure  without any additional cost to the Bank. 
+viii. The solution should be integrated online banking channel offering a central transaction 
+management, business logic orchestration and application administration. Single integration  with host systems with a unified data architecture model. 
+ix. The solution offered should comply with all the Operative Guidelines for Mobile Banking 
+Transactions in India issued by all statutory authority. The solution should also comply with any  further guidelines and mandates issued by all statutory authority for Mobile Banking  Transactions. Bidder has to undertake to incorporate, at no cost to the Bank, suitable changes  in the solution including the software, procedure and operations as required from time to time  to comply with any new rules of Indian Law or new rules from RBI/IBA/MFI/NPCI/Bank for  providing the Mobile Banking services to The Bank. 
+x. The solution should be compatible with all the Mobile Platforms meeting the industry standard 
+but not limited to Android and iOS. Bidder should ensure the compatibility of solution provided  for all the impending updates / upgrades of various Mobile Platforms without any additional  cost to the Bank. Bidder should also ensure the availability of solution for any new Mobile  Platform within 1 month from the date of its launch without any additional cost to the Bank. 
+xi. The proposed solution should be compatible with all the Basic Mobile Phones, versions, Feature 
+Phones, and Smartphones & Tablets meeting the industry standards. 
+xii. The proposed solution should be able to provide various MIS reports required time to time to 
+the Bank management and/or statutory authorities within a project tenure without any 
+additional cost to the Bank and which should be configurable in nature. 
+xiii. The proposed solution should follow an enterprise model (perpetual license) at Corporate Level 
+and there should not be any restriction in terms of number of users or volume of transactions  in either way for Android and iOS. 
+xiv. Bidder has to ensure the flawless switching of all the services under purview of this RFQ to 
+Disaster Recovery (DR) site during DR drill as and when decided by Bank/statutory authority or  in case of non-availability of primary / DC site. 
+xv. The proposed solution should be well versed with functionality as of now to support English 
+language. In future if the Bank wish to/mandatory required any additional languages within the  project tenure, Bidder without any additional cost to the Bank. 
+xvi. Bidder has to offer technical and functional support of the service for contract tenure post 
+implementation of solution. During the project tenure, Bidder must provide onsite technical  and functional resources for providing support to the Bank’s staff as and when required. 
+xvii. Bidder will be required to provide technical support to Bank during the entire contract period.  xviii. For any new platform/model/OS/upgrade, Bidder will provide complete functional and 
+technical solution/ features/ application within thirty days of launch in India. 
+xix. The proposed solution should be compliant with the RBI Working group document on 
+“Information Security, Electronic Banking, Technology Risk Management and Cyber Frauds”  dated Jan 2011, such as for confidentiality and security and Cyber Security guideline June’ 2016  and subsequent guidelines. 
+xx. Bidder needs to mention any other security feature supported by the system with details and 
+architecture of security components. Bidder should provide an application to the Bank Staff,  Bank Call Centre Users and any other user designated by the Bank for real time transactions  monitoring with related reports, complaint tracking module along with customer management.  Bidder will have to include version upgrade and enhancements in services on account of  industry dynamics as a part of the Annual Maintenance. Any development work of such type  will be carried out by the technical team of Bidder. 
+xxi. Bidder must undertake suitable changes in the solution including the software, procedure and 
+operations as required from time to time to comply with any new rules of Indian  Law/RBI/IBA/MFI/TRAI/Govt. of India/NPCI and other Regulators for Mobile Banking services. 
+xxii. Bidder will have to provide a detailed process for registration and activation of mobile banking. 
+The process needs to be simple, easy to understand and secured for better acceptability by  consumers with minimum technical knowledge. 
+i. The proposed Mobile Banking Solution should be implemented interfacing with Bank’s Core 
+Banking Solution. The proposed solution should have functionality for handling retail as well as  corporate customers of Bank on Mobile Channel. The proposed solution should also support  interfacing with ATM switch, Internet banking, interfacing with BBPOU for BBPS and other  channels of the Bank (Existing and future within a project tenure) for seamless integration,  parameterization, customization etc. 
+ii. The solution should include, but not limited to, the following: 
+a) The solution should deliver the listed services as given in the scope document.   b) Bidder should implement the solution at Bidder DC, DR-Site and UAT environment.  
+iii. Any software required / needed for making the solution live and running to be provided by 
+Bidder throughout the contract period without any additional cost to the Bank. 
+iv. The proposed solution should be compatible in terms of communication/ synchronization with 
+Bank’s Core Banking Solution. 
+v. To provide support for trouble shooting and enhancements in the Services during the contract.  vi. To implement proposed Mobile Banking solution by interfacing with Bank’s Core Banking 
+application and interfacing with NPCI for IMPS, UPI, BHIM, BBPS or any other services offered  by NPCI (Existing and future) with in a project tenure without any additional cost to the Bank. 
+vii. The proposed solution should also support interfacing with Financial Transaction Switches 
+proposed by Bidder for seamless integration, parameterization, customization etc. as required  with appropriate security guidelines issued by all statutory authority within a project tenure  without any additional cost to the Bank. 
+viii. The solution should be integrated online banking channel offering a central transaction 
+management, business logic orchestration and application administration. Single integration  with host systems with a unified data architecture model. 
+ix. The solution offered should comply with all the Operative Guidelines for Mobile Banking 
+Transactions in India issued by all statutory authority. The solution should also comply with any  further guidelines and mandates issued by all statutory authority for Mobile Banking  Transactions. Bidder has to undertake to incorporate, at no cost to the Bank, suitable changes  in the solution including the software, procedure and operations as required from time to time  to comply with any new rules of Indian Law or new rules from RBI/IBA/MFI/NPCI/Bank for  providing the Mobile Banking services to The Bank. 
+x. The solution should be compatible with all the Mobile Platforms meeting the industry standard 
+but not limited to Android and iOS. Bidder should ensure the compatibility of solution provided  for all the impending updates / upgrades of various Mobile Platforms without any additional  cost to the Bank. Bidder should also ensure the availability of solution for any new Mobile  Platform within 1 month from the date of its launch without any additional cost to the Bank. 
+xi. The proposed solution should be compatible with all the Basic Mobile Phones, versions, Feature 
+Phones, and Smartphones & Tablets meeting the industry standards. 
+xii. The proposed solution should be able to provide various MIS reports required time to time to 
+the Bank management and/or statutory authorities within a project tenure without any 
+additional cost to the Bank and which should be configurable in nature. 
+xiii. The proposed solution should follow an enterprise model (perpetual license) at Corporate Level 
+and there should not be any restriction in terms of number of users or volume of transactions  in either way for Android and iOS. 
+xiv. Bidder has to ensure the flawless switching of all the services under purview of this RFQ to 
+Disaster Recovery (DR) site during DR drill as and when decided by Bank/statutory authority or  in case of non-availability of primary / DC site. 
+xv. The proposed solution should be well versed with functionality as of now to support English 
+language. In future if the Bank wish to/mandatory required any additional languages within the  project tenure, Bidder without any additional cost to the Bank. 
+xvi. Bidder has to offer technical and functional support of the service for contract tenure post 
+implementation of solution. During the project tenure, Bidder must provide onsite technical  and functional resources for providing support to the Bank’s staff as and when required. 
+xvii. Bidder will be required to provide technical support to Bank during the entire contract period.  xviii. For any new platform/model/OS/upgrade, Bidder will provide complete functional and 
+technical solution/ features/ application within thirty days of launch in India. 
+xix. The proposed solution should be compliant with the RBI Working group document on 
+“Information Security, Electronic Banking, Technology Risk Management and Cyber Frauds”  dated Jan 2011, such as for confidentiality and security and Cyber Security guideline June’ 2016  and subsequent guidelines. 
+xx. Bidder needs to mention any other security feature supported by the system with details and 
+architecture of security components. Bidder should provide an application to the Bank Staff,  Bank Call Centre Users and any other user designated by the Bank for real time transactions  monitoring with related reports, complaint tracking module along with customer management.  Bidder will have to include version upgrade and enhancements in services on account of  industry dynamics as a part of the Annual Maintenance. Any development work of such type  will be carried out by the technical team of Bidder. 
+xxi. Bidder must undertake suitable changes in the solution including the software, procedure and 
+operations as required from time to time to comply with any new rules of Indian  Law/RBI/IBA/MFI/TRAI/Govt. of India/NPCI and other Regulators for Mobile Banking services. 
+xxii. Bidder will have to provide a detailed process for registration and activation of mobile banking. 
+The process needs to be simple, easy to understand and secured for better acceptability by  consumers with minimum technical knowledge. 
+i. The proposed Mobile Banking Solution should be implemented interfacing with Bank’s Core 
+Banking Solution. The proposed solution should have functionality for handling retail as well as  corporate customers of Bank on Mobile Channel. The proposed solution should also support  interfacing with ATM switch, Internet banking, interfacing with BBPOU for BBPS and other  channels of the Bank (Existing and future within a project tenure) for seamless integration,  parameterization, customization etc. 
+ii. The solution should include, but not limited to, the following: 
+a) The solution should deliver the listed services as given in the scope document.   b) Bidder should implement the solution at Bidder DC, DR-Site and UAT environment.  
+iii. Any software required / needed for making the solution live and running to be provided by 
+Bidder throughout the contract period without any additional cost to the Bank. 
+iv. The proposed solution should be compatible in terms of communication/ synchronization with 
+Bank’s Core Banking Solution. 
+v. To provide support for trouble shooting and enhancements in the Services during the contract.  vi. To implement proposed Mobile Banking solution by interfacing with Bank’s Core Banking 
+application and interfacing with NPCI for IMPS, UPI, BHIM, BBPS or any other services offered  by NPCI (Existing and future) with in a project tenure without any additional cost to the Bank. 
+vii. The proposed solution should also support interfacing with Financial Transaction Switches 
+proposed by Bidder for seamless integration, parameterization, customization etc. as required  with appropriate security guidelines issued by all statutory authority within a project tenure  without any additional cost to the Bank. 
+viii. The solution should be integrated online banking channel offering a central transaction 
+management, business logic orchestration and application administration. Single integration  with host systems with a unified data architecture model. 
+ix. The solution offered should comply with all the Operative Guidelines for Mobile Banking 
+Transactions in India issued by all statutory authority. The solution should also comply with any  further guidelines and mandates issued by all statutory authority for Mobile Banking  Transactions. Bidder has to undertake to incorporate, at no cost to the Bank, suitable changes  in the solution including the software, procedure and operations as required from time to time  to comply with any new rules of Indian Law or new rules from RBI/IBA/MFI/NPCI/Bank for  providing the Mobile Banking services to The Bank. 
+x. The solution should be compatible with all the Mobile Platforms meeting the industry standard 
+but not limited to Android and iOS. Bidder should ensure the compatibility of solution provided  for all the impending updates / upgrades of various Mobile Platforms without any additional  cost to the Bank. Bidder should also ensure the availability of solution for any new Mobile  Platform within 1 month from the date of its launch without any additional cost to the Bank. 
+xi. The proposed solution should be compatible with all the Basic Mobile Phones, versions, Feature 
+Phones, and Smartphones & Tablets meeting the industry standards. 
+xii. The proposed solution should be able to provide various MIS reports required time to time to 
+the Bank management and/or statutory authorities within a project tenure without any 
+additional cost to the Bank and which should be configurable in nature. 
+xiii. The proposed solution should follow an enterprise model (perpetual license) at Corporate Level 
+and there should not be any restriction in terms of number of users or volume of transactions  in either way for Android and iOS. 
+xiv. Bidder has to ensure the flawless switching of all the services under purview of this RFQ to 
+Disaster Recovery (DR) site during DR drill as and when decided by Bank/statutory authority or  in case of non-availability of primary / DC site. 
+xv. The proposed solution should be well versed with functionality as of now to support English 
+language. In future if the Bank wish to/mandatory required any additional languages within the  project tenure, Bidder without any additional cost to the Bank. 
+xvi. Bidder has to offer technical and functional support of the service for contract tenure post 
+implementation of solution. During the project tenure, Bidder must provide onsite technical  and functional resources for providing support to the Bank’s staff as and when required. 
+xvii. Bidder will be required to provide technical support to Bank during the entire contract period.  xviii. For any new platform/model/OS/upgrade, Bidder will provide complete functional and 
+technical solution/ features/ application within thirty days of launch in India. 
+xix. The proposed solution should be compliant with the RBI Working group document on 
+“Information Security, Electronic Banking, Technology Risk Management and Cyber Frauds”  dated Jan 2011, such as for confidentiality and security and Cyber Security guideline June’ 2016  and subsequent guidelines. 
+xx. Bidder needs to mention any other security feature supported by the system with details and 
+architecture of security components. Bidder should provide an application to the Bank Staff,  Bank Call Centre Users and any other user designated by the Bank for real time transactions  monitoring with related reports, complaint tracking module along with customer management.  Bidder will have to include version upgrade and enhancements in services on account of  industry dynamics as a part of the Annual Maintenance. Any development work of such type  will be carried out by the technical team of Bidder. 
+xxi. Bidder must undertake suitable changes in the solution including the software, procedure and 
+operations as required from time to time to comply with any new rules of Indian  Law/RBI/IBA/MFI/TRAI/Govt. of India/NPCI and other Regulators for Mobile Banking services. 
+xxii. Bidder will have to provide a detailed process for registration and activation of mobile banking. 
+The process needs to be simple, easy to understand and secured for better acceptability by  consumers with minimum technical knowledge. 
+i. The proposed Mobile Banking Solution should be implemented interfacing with Bank’s Core 
+Banking Solution. The proposed solution should have functionality for handling retail as well as  corporate customers of Bank on Mobile Channel. The proposed solution should also support  interfacing with ATM switch, Internet banking, interfacing with BBPOU for BBPS and other  channels of the Bank (Existing and future within a project tenure) for seamless integration,  parameterization, customization etc. 
+ii. The solution should include, but not limited to, the following: 
+a) The solution should deliver the listed services as given in the scope document.   b) Bidder should implement the solution at Bidder DC, DR-Site and UAT environment.  
+iii. Any software required / needed for making the solution live and running to be provided by 
+Bidder throughout the contract period without any additional cost to the Bank. 
+iv. The proposed solution should be compatible in terms of communication/ synchronization with 
+Bank’s Core Banking Solution. 
+v. To provide support for trouble shooting and enhancements in the Services during the contract.  vi. To implement proposed Mobile Banking solution by interfacing with Bank’s Core Banking 
+application and interfacing with NPCI for IMPS, UPI, BHIM, BBPS or any other services offered  by NPCI (Existing and future) with in a project tenure without any additional cost to the Bank. 
+vii. The proposed solution should also support interfacing with Financial Transaction Switches 
+proposed by Bidder for seamless integration, parameterization, customization etc. as required  with appropriate security guidelines issued by all statutory authority within a project tenure  without any additional cost to the Bank. 
+viii. The solution should be integrated online banking channel offering a central transaction 
+management, business logic orchestration and application administration. Single integration  with host systems with a unified data architecture model. 
+ix. The solution offered should comply with all the Operative Guidelines for Mobile Banking 
+Transactions in India issued by all statutory authority. The solution should also comply with any  further guidelines and mandates issued by all statutory authority for Mobile Banking  Transactions. Bidder has to undertake to incorporate, at no cost to the Bank, suitable changes  in the solution including the software, procedure and operations as required from time to time  to comply with any new rules of Indian Law or new rules from RBI/IBA/MFI/NPCI/Bank for  providing the Mobile Banking services to The Bank. 
+x. The solution should be compatible with all the Mobile Platforms meeting the industry standard 
+but not limited to Android and iOS. Bidder should ensure the compatibility of solution provided  for all the impending updates / upgrades of various Mobile Platforms without any additional  cost to the Bank. Bidder should also ensure the availability of solution for any new Mobile  Platform within 1 month from the date of its launch without any additional cost to the Bank. 
+xi. The proposed solution should be compatible with all the Basic Mobile Phones, versions, Feature 
+Phones, and Smartphones & Tablets meeting the industry standards. 
+xii. The proposed solution should be able to provide various MIS reports required time to time to 
+the Bank management and/or statutory authorities within a project tenure without any 
+additional cost to the Bank and which should be configurable in nature. 
+xiii. The proposed solution should follow an enterprise model (perpetual license) at Corporate Level 
+and there should not be any restriction in terms of number of users or volume of transactions  in either way for Android and iOS. 
+xiv. Bidder has to ensure the flawless switching of all the services under purview of this RFQ to 
+Disaster Recovery (DR) site during DR drill as and when decided by Bank/statutory authority or  in case of non-availability of primary / DC site. 
+xv. The proposed solution should be well versed with functionality as of now to support English 
+language. In future if the Bank wish to/mandatory required any additional languages within the  project tenure, Bidder without any additional cost to the Bank. 
+xvi. Bidder has to offer technical and functional support of the service for contract tenure post 
+implementation of solution. During the project tenure, Bidder must provide onsite technical  and functional resources for providing support to the Bank’s staff as and when required. 
+xvii. Bidder will be required to provide technical support to Bank during the entire contract period.  xviii. For any new platform/model/OS/upgrade, Bidder will provide complete functional and 
+technical solution/ features/ application within thirty days of launch in India. 
+xix. The proposed solution should be compliant with the RBI Working group document on 
+“Information Security, Electronic Banking, Technology Risk Management and Cyber Frauds”  dated Jan 2011, such as for confidentiality and security and Cyber Security guideline June’ 2016  and subsequent guidelines. 
+xx. Bidder needs to mention any other security feature supported by the system with details and 
+architecture of security components. Bidder should provide an application to the Bank Staff,  Bank Call Centre Users and any other user designated by the Bank for real time transactions  monitoring with related reports, complaint tracking module along with customer management.  Bidder will have to include version upgrade and enhancements in services on account of  industry dynamics as a part of the Annual Maintenance. Any development work of such type  will be carried out by the technical team of Bidder. 
+xxi. Bidder must undertake suitable changes in the solution including the software, procedure and 
+operations as required from time to time to comply with any new rules of Indian  Law/RBI/IBA/MFI/TRAI/Govt. of India/NPCI and other Regulators for Mobile Banking services. 
+xxii. Bidder will have to provide a detailed process for registration and activation of mobile banking. 
+The process needs to be simple, easy to understand and secured for better acceptability by  consumers with minimum technical knowledge. 
+i. The proposed Mobile Banking Solution should be implemented interfacing with Bank’s Core 
+Banking Solution. The proposed solution should have functionality for handling retail as well as  corporate customers of Bank on Mobile Channel. The proposed solution should also support  interfacing with ATM switch, Internet banking, interfacing with BBPOU for BBPS and other  channels of the Bank (Existing and future within a project tenure) for seamless integration,  parameterization, customization etc. 
+ii. The solution should include, but not limited to, the following: 
+a) The solution should deliver the listed services as given in the scope document.   b) Bidder should implement the solution at Bidder DC, DR-Site and UAT environment.  
+iii. Any software required / needed for making the solution live and running to be provided by 
+Bidder throughout the contract period without any additional cost to the Bank. 
+iv. The proposed solution should be compatible in terms of communication/ synchronization with 
+Bank’s Core Banking Solution. 
+v. To provide support for trouble shooting and enhancements in the Services during the contract.  vi. To implement proposed Mobile Banking solution by interfacing with Bank’s Core Banking 
+application and interfacing with NPCI for IMPS, UPI, BHIM, BBPS or any other services offered  by NPCI (Existing and future) with in a project tenure without any additional cost to the Bank. 
+vii. The proposed solution should also support interfacing with Financial Transaction Switches 
+proposed by Bidder for seamless integration, parameterization, customization etc. as required  with appropriate security guidelines issued by all statutory authority within a project tenure  without any additional cost to the Bank. 
+viii. The solution should be integrated online banking channel offering a central transaction 
+management, business logic orchestration and application administration. Single integration  with host systems with a unified data architecture model. 
+ix. The solution offered should comply with all the Operative Guidelines for Mobile Banking 
+Transactions in India issued by all statutory authority. The solution should also comply with any  further guidelines and mandates issued by all statutory authority for Mobile Banking  Transactions. Bidder has to undertake to incorporate, at no cost to the Bank, suitable changes  in the solution including the software, procedure and operations as required from time to time  to comply with any new rules of Indian Law or new rules from RBI/IBA/MFI/NPCI/Bank for  providing the Mobile Banking services to The Bank. 
+x. The solution should be compatible with all the Mobile Platforms meeting the industry standard 
+but not limited to Android and iOS. Bidder should ensure the compatibility of solution provided  for all the impending updates / upgrades of various Mobile Platforms without any additional  cost to the Bank. Bidder should also ensure the availability of solution for any new Mobile  Platform within 1 month from the date of its launch without any additional cost to the Bank. 
+xi. The proposed solution should be compatible with all the Basic Mobile Phones, versions, Feature 
+Phones, and Smartphones & Tablets meeting the industry standards. 
+xii. The proposed solution should be able to provide various MIS reports required time to time to 
+the Bank management and/or statutory authorities within a project tenure without any 
+additional cost to the Bank and which should be configurable in nature. 
+xiii. The proposed solution should follow an enterprise model (perpetual license) at Corporate Level 
+and there should not be any restriction in terms of number of users or volume of transactions  in either way for Android and iOS. 
+xiv. Bidder has to ensure the flawless switching of all the services under purview of this RFQ to 
+Disaster Recovery (DR) site during DR drill as and when decided by Bank/statutory authority or  in case of non-availability of primary / DC site. 
+xv. The proposed solution should be well versed with functionality as of now to support English 
+language. In future if the Bank wish to/mandatory required any additional languages within the  project tenure, Bidder without any additional cost to the Bank. 
+xvi. Bidder has to offer technical and functional support of the service for contract tenure post 
+implementation of solution. During the project tenure, Bidder must provide onsite technical  and functional resources for providing support to the Bank’s staff as and when required. 
+xvii. Bidder will be required to provide technical support to Bank during the entire contract period.  xviii. For any new platform/model/OS/upgrade, Bidder will provide complete functional and 
+technical solution/ features/ application within thirty days of launch in India. 
+xix. The proposed solution should be compliant with the RBI Working group document on 
+“Information Security, Electronic Banking, Technology Risk Management and Cyber Frauds”  dated Jan 2011, such as for confidentiality and security and Cyber Security guideline June’ 2016  and subsequent guidelines. 
+xx. Bidder needs to mention any other security feature supported by the system with details and 
+architecture of security components. Bidder should provide an application to the Bank Staff,  Bank Call Centre Users and any other user designated by the Bank for real time transactions  monitoring with related reports, complaint tracking module along with customer management.  Bidder will have to include version upgrade and enhancements in services on account of  industry dynamics as a part of the Annual Maintenance. Any development work of such type  will be carried out by the technical team of Bidder. 
+xxi. Bidder must undertake suitable changes in the solution including the software, procedure and 
+operations as required from time to time to comply with any new rules of Indian  Law/RBI/IBA/MFI/TRAI/Govt. of India/NPCI and other Regulators for Mobile Banking services. 
+xxii. Bidder will have to provide a detailed process for registration and activation of mobile banking. 
+The process needs to be simple, easy to understand and secured for better acceptability by  consumers with minimum technical knowledge. 
+i. The proposed Mobile Banking Solution should be implemented interfacing with Bank’s Core 
+Banking Solution. The proposed solution should have functionality for handling retail as well as  corporate customers of Bank on Mobile Channel. The proposed solution should also support  interfacing with ATM switch, Internet banking, interfacing with BBPOU for BBPS and other  channels of the Bank (Existing and future within a project tenure) for seamless integration,  parameterization, customization etc. 
+ii. The solution should include, but not limited to, the following: 
+a) The solution should deliver the listed services as given in the scope document.   b) Bidder should implement the solution at Bidder DC, DR-Site and UAT environment.  
+iii. Any software required / needed for making the solution live and running to be provided by 
+Bidder throughout the contract period without any additional cost to the Bank. 
+iv. The proposed solution should be compatible in terms of communication/ synchronization with 
+Bank’s Core Banking Solution. 
+v. To provide support for trouble shooting and enhancements in the Services during the contract.  vi. To implement proposed Mobile Banking solution by interfacing with Bank’s Core Banking 
+application and interfacing with NPCI for IMPS, UPI, BHIM, BBPS or any other services offered  by NPCI (Existing and future) with in a project tenure without any additional cost to the Bank. 
+vii. The proposed solution should also support interfacing with Financial Transaction Switches 
+proposed by Bidder for seamless integration, parameterization, customization etc. as required  with appropriate security guidelines issued by all statutory authority within a project tenure  without any additional cost to the Bank. 
+viii. The solution should be integrated online banking channel offering a central transaction 
+management, business logic orchestration and application administration. Single integration  with host systems with a unified data architecture model. 
+ix. The solution offered should comply with all the Operative Guidelines for Mobile Banking 
+Transactions in India issued by all statutory authority. The solution should also comply with any  further guidelines and mandates issued by all statutory authority for Mobile Banking  Transactions. Bidder has to undertake to incorporate, at no cost to the Bank, suitable changes  in the solution including the software, procedure and operations as required from time to time  to comply with any new rules of Indian Law or new rules from RBI/IBA/MFI/NPCI/Bank for  providing the Mobile Banking services to The Bank. 
+x. The solution should be compatible with all the Mobile Platforms meeting the industry standard 
+but not limited to Android and iOS. Bidder should ensure the compatibility of solution provided  for all the impending updates / upgrades of various Mobile Platforms without any additional  cost to the Bank. Bidder should also ensure the availability of solution for any new Mobile  Platform within 1 month from the date of its launch without any additional cost to the Bank. 
+xi. The proposed solution should be compatible with all the Basic Mobile Phones, versions, Feature 
+Phones, and Smartphones & Tablets meeting the industry standards. 
+xii. The proposed solution should be able to provide various MIS reports required time to time to 
+the Bank management and/or statutory authorities within a project tenure without any 
+additional cost to the Bank and which should be configurable in nature. 
+xiii. The proposed solution should follow an enterprise model (perpetual license) at Corporate Level 
+and there should not be any restriction in terms of number of users or volume of transactions  in either way for Android and iOS. 
+xiv. Bidder has to ensure the flawless switching of all the services under purview of this RFQ to 
+Disaster Recovery (DR) site during DR drill as and when decided by Bank/statutory authority or  in case of non-availability of primary / DC site. 
+xv. The proposed solution should be well versed with functionality as of now to support English 
+language. In future if the Bank wish to/mandatory required any additional languages within the  project tenure, Bidder without any additional cost to the Bank. 
+xvi. Bidder has to offer technical and functional support of the service for contract tenure post 
+implementation of solution. During the project tenure, Bidder must provide onsite technical  and functional resources for providing support to the Bank’s staff as and when required. 
+xvii. Bidder will be required to provide technical support to Bank during the entire contract period.  xviii. For any new platform/model/OS/upgrade, Bidder will provide complete functional and 
+technical solution/ features/ application within thirty days of launch in India. 
+xix. The proposed solution should be compliant with the RBI Working group document on 
+“Information Security, Electronic Banking, Technology Risk Management and Cyber Frauds”  dated Jan 2011, such as for confidentiality and security and Cyber Security guideline June’ 2016  and subsequent guidelines. 
+xx. Bidder needs to mention any other security feature supported by the system with details and 
+architecture of security components. Bidder should provide an application to the Bank Staff,  Bank Call Centre Users and any other user designated by the Bank for real time transactions  monitoring with related reports, complaint tracking module along with customer management.  Bidder will have to include version upgrade and enhancements in services on account of  industry dynamics as a part of the Annual Maintenance. Any development work of such type  will be carried out by the technical team of Bidder. 
+xxi. Bidder must undertake suitable changes in the solution including the software, procedure and 
+operations as required from time to time to comply with any new rules of Indian  Law/RBI/IBA/MFI/TRAI/Govt. of India/NPCI and other Regulators for Mobile Banking services. 
+xxii. Bidder will have to provide a detailed process for registration and activation of mobile banking. 
+The process needs to be simple, easy to understand and secured for better acceptability by  consumers with minimum technical knowledge. 
+i. The proposed Mobile Banking Solution should be implemented interfacing with Bank’s Core 
+Banking Solution. The proposed solution should have functionality for handling retail as well as  corporate customers of Bank on Mobile Channel. The proposed solution should also support  interfacing with ATM switch, Internet banking, interfacing with BBPOU for BBPS and other  channels of the Bank (Existing and future within a project tenure) for seamless integration,  parameterization, customization etc. 
+ii. The solution should include, but not limited to, the following: 
+a) The solution should deliver the listed services as given in the scope document.   b) Bidder should implement the solution at Bidder DC, DR-Site and UAT environment.  
+iii. Any software required / needed for making the solution live and running to be provided by 
+Bidder throughout the contract period without any additional cost to the Bank. 
+iv. The proposed solution should be compatible in terms of communication/ synchronization with 
+Bank’s Core Banking Solution. 
+v. To provide support for trouble shooting and enhancements in the Services during the contract.  vi. To implement proposed Mobile Banking solution by interfacing with Bank’s Core Banking 
+application and interfacing with NPCI for IMPS, UPI, BHIM, BBPS or any other services offered  by NPCI (Existing and future) with in a project tenure without any additional cost to the Bank. 
+vii. The proposed solution should also support interfacing with Financial Transaction Switches 
+proposed by Bidder for seamless integration, parameterization, customization etc. as required  with appropriate security guidelines issued by all statutory authority within a project tenure  without any additional cost to the Bank. 
+viii. The solution should be integrated online banking channel offering a central transaction 
+management, business logic orchestration and application administration. Single integration  with host systems with a unified data architecture model. 
+ix. The solution offered should comply with all the Operative Guidelines for Mobile Banking 
+Transactions in India issued by all statutory authority. The solution should also comply with any  further guidelines and mandates issued by all statutory authority for Mobile Banking  Transactions. Bidder has to undertake to incorporate, at no cost to the Bank, suitable changes  in the solution including the software, procedure and operations as required from time to time  to comply with any new rules of Indian Law or new rules from RBI/IBA/MFI/NPCI/Bank for  providing the Mobile Banking services to The Bank. 
+x. The solution should be compatible with all the Mobile Platforms meeting the industry standard 
+but not limited to Android and iOS. Bidder should ensure the compatibility of solution provided  for all the impending updates / upgrades of various Mobile Platforms without any additional  cost to the Bank. Bidder should also ensure the availability of solution for any new Mobile  Platform within 1 month from the date of its launch without any additional cost to the Bank. 
+xi. The proposed solution should be compatible with all the Basic Mobile Phones, versions, Feature 
+Phones, and Smartphones & Tablets meeting the industry standards. 
+xii. The proposed solution should be able to provide various MIS reports required time to time to 
+the Bank management and/or statutory authorities within a project tenure without any 
+additional cost to the Bank and which should be configurable in nature. 
+xiii. The proposed solution should follow an enterprise model (perpetual license) at Corporate Level 
+and there should not be any restriction in terms of number of users or volume of transactions  in either way for Android and iOS. 
+xiv. Bidder has to ensure the flawless switching of all the services under purview of this RFQ to 
+Disaster Recovery (DR) site during DR drill as and when decided by Bank/statutory authority or  in case of non-availability of primary / DC site. 
+xv. The proposed solution should be well versed with functionality as of now to support English 
+language. In future if the Bank wish to/mandatory required any additional languages within the  project tenure, Bidder without any additional cost to the Bank. 
+xvi. Bidder has to offer technical and functional support of the service for contract tenure post 
+implementation of solution. During the project tenure, Bidder must provide onsite technical  and functional resources for providing support to the Bank’s staff as and when required. 
+xvii. Bidder will be required to provide technical support to Bank during the entire contract period.  xviii. For any new platform/model/OS/upgrade, Bidder will provide complete functional and 
+technical solution/ features/ application within thirty days of launch in India. 
+xix. The proposed solution should be compliant with the RBI Working group document on 
+“Information Security, Electronic Banking, Technology Risk Management and Cyber Frauds”  dated Jan 2011, such as for confidentiality and security and Cyber Security guideline June’ 2016  and subsequent guidelines. 
+xx. Bidder needs to mention any other security feature supported by the system with details and 
+architecture of security components. Bidder should provide an application to the Bank Staff,  Bank Call Centre Users and any other user designated by the Bank for real time transactions  monitoring with related reports, complaint tracking module along with customer management.  Bidder will have to include version upgrade and enhancements in services on account of  industry dynamics as a part of the Annual Maintenance. Any development work of such type  will be carried out by the technical team of Bidder. 
+xxi. Bidder must undertake suitable changes in the solution including the software, procedure and 
+operations as required from time to time to comply with any new rules of Indian  Law/RBI/IBA/MFI/TRAI/Govt. of India/NPCI and other Regulators for Mobile Banking services. 
+xxii. Bidder will have to provide a detailed process for registration and activation of mobile banking. 
+The process needs to be simple, easy to understand and secured for better acceptability by  consumers with minimum technical knowledge. 
+i. The proposed Mobile Banking Solution should be implemented interfacing with Bank’s Core 
+Banking Solution. The proposed solution should have functionality for handling retail as well as  corporate customers of Bank on Mobile Channel. The proposed solution should also support  interfacing with ATM switch, Internet banking, interfacing with BBPOU for BBPS and other  channels of the Bank (Existing and future within a project tenure) for seamless integration,  parameterization, customization etc. 
+ii. The solution should include, but not limited to, the following: 
+a) The solution should deliver the listed services as given in the scope document.   b) Bidder should implement the solution at Bidder DC, DR-Site and UAT environment.  
+iii. Any software required / needed for making the solution live and running to be provided by 
+Bidder throughout the contract period without any additional cost to the Bank. 
+iv. The proposed solution should be compatible in terms of communication/ synchronization with 
+Bank’s Core Banking Solution. 
+v. To provide support for trouble shooting and enhancements in the Services during the contract.  vi. To implement proposed Mobile Banking solution by interfacing with Bank’s Core Banking 
+application and interfacing with NPCI for IMPS, UPI, BHIM, BBPS or any other services offered  by NPCI (Existing and future) with in a project tenure without any additional cost to the Bank. 
+vii. The proposed solution should also support interfacing with Financial Transaction Switches 
+proposed by Bidder for seamless integration, parameterization, customization etc. as required  with appropriate security guidelines issued by all statutory authority within a project tenure  without any additional cost to the Bank. 
+viii. The solution should be integrated online banking channel offering a central transaction 
+management, business logic orchestration and application administration. Single integration  with host systems with a unified data architecture model. 
+ix. The solution offered should comply with all the Operative Guidelines for Mobile Banking 
+Transactions in India issued by all statutory authority. The solution should also comply with any  further guidelines and mandates issued by all statutory authority for Mobile Banking  Transactions. Bidder has to undertake to incorporate, at no cost to the Bank, suitable changes  in the solution including the software, procedure and operations as required from time to time  to comply with any new rules of Indian Law or new rules from RBI/IBA/MFI/NPCI/Bank for  providing the Mobile Banking services to The Bank. 
+x. The solution should be compatible with all the Mobile Platforms meeting the industry standard 
+but not limited to Android and iOS. Bidder should ensure the compatibility of solution provided  for all the impending updates / upgrades of various Mobile Platforms without any additional  cost to the Bank. Bidder should also ensure the availability of solution for any new Mobile  Platform within 1 month from the date of its launch without any additional cost to the Bank. 
+xi. The proposed solution should be compatible with all the Basic Mobile Phones, versions, Feature 
+Phones, and Smartphones & Tablets meeting the industry standards. 
+xii. The proposed solution should be able to provide various MIS reports required time to time to 
+the Bank management and/or statutory authorities within a project tenure without any 
+additional cost to the Bank and which should be configurable in nature. 
+xiii. The proposed solution should follow an enterprise model (perpetual license) at Corporate Level 
+and there should not be any restriction in terms of number of users or volume of transactions  in either way for Android and iOS. 
+xiv. Bidder has to ensure the flawless switching of all the services under purview of this RFQ to 
+Disaster Recovery (DR) site during DR drill as and when decided by Bank/statutory authority or  in case of non-availability of primary / DC site. 
+xv. The proposed solution should be well versed with functionality as of now to support English 
+language. In future if the Bank wish to/mandatory required any additional languages within the  project tenure, Bidder without any additional cost to the Bank. 
+xvi. Bidder has to offer technical and functional support of the service for contract tenure post 
+implementation of solution. During the project tenure, Bidder must provide onsite technical  and functional resources for providing support to the Bank’s staff as and when required. 
+xvii. Bidder will be required to provide technical support to Bank during the entire contract period.  xviii. For any new platform/model/OS/upgrade, Bidder will provide complete functional and 
+technical solution/ features/ application within thirty days of launch in India. 
+xix. The proposed solution should be compliant with the RBI Working group document on 
+“Information Security, Electronic Banking, Technology Risk Management and Cyber Frauds”  dated Jan 2011, such as for confidentiality and security and Cyber Security guideline June’ 2016  and subsequent guidelines. 
+xx. Bidder needs to mention any other security feature supported by the system with details and 
+architecture of security components. Bidder should provide an application to the Bank Staff,  Bank Call Centre Users and any other user designated by the Bank for real time transactions  monitoring with related reports, complaint tracking module along with customer management.  Bidder will have to include version upgrade and enhancements in services on account of  industry dynamics as a part of the Annual Maintenance. Any development work of such type  will be carried out by the technical team of Bidder. 
+xxi. Bidder must undertake suitable changes in the solution including the software, procedure and 
+operations as required from time to time to comply with any new rules of Indian  Law/RBI/IBA/MFI/TRAI/Govt. of India/NPCI and other Regulators for Mobile Banking services. 
+xxii. Bidder will have to provide a detailed process for registration and activation of mobile banking. 
+The process needs to be simple, easy to understand and secured for better acceptability by  consumers with minimum technical knowledge. 
+i. The proposed Mobile Banking Solution should be implemented interfacing with Bank’s Core 
+Banking Solution. The proposed solution should have functionality for handling retail as well as  corporate customers of Bank on Mobile Channel. The proposed solution should also support  interfacing with ATM switch, Internet banking, interfacing with BBPOU for BBPS and other  channels of the Bank (Existing and future within a project tenure) for seamless integration,  parameterization, customization etc. 
+ii. The solution should include, but not limited to, the following: 
+a) The solution should deliver the listed services as given in the scope document.   b) Bidder should implement the solution at Bidder DC, DR-Site and UAT environment.  
+iii. Any software required / needed for making the solution live and running to be provided by 
+Bidder throughout the contract period without any additional cost to the Bank. 
+iv. The proposed solution should be compatible in terms of communication/ synchronization with 
+Bank’s Core Banking Solution. 
+v. To provide support for trouble shooting and enhancements in the Services during the contract.  vi. To implement proposed Mobile Banking solution by interfacing with Bank’s Core Banking 
+application and interfacing with NPCI for IMPS, UPI, BHIM, BBPS or any other services offered  by NPCI (Existing and future) with in a project tenure without any additional cost to the Bank. 
+vii. The proposed solution should also support interfacing with Financial Transaction Switches 
+proposed by Bidder for seamless integration, parameterization, customization etc. as required  with appropriate security guidelines issued by all statutory authority within a project tenure  without any additional cost to the Bank. 
+viii. The solution should be integrated online banking channel offering a central transaction 
+management, business logic orchestration and application administration. Single integration  with host systems with a unified data architecture model. 
+ix. The solution offered should comply with all the Operative Guidelines for Mobile Banking 
+Transactions in India issued by all statutory authority. The solution should also comply with any  further guidelines and mandates issued by all statutory authority for Mobile Banking  Transactions. Bidder has to undertake to incorporate, at no cost to the Bank, suitable changes  in the solution including the software, procedure and operations as required from time to time  to comply with any new rules of Indian Law or new rules from RBI/IBA/MFI/NPCI/Bank for  providing the Mobile Banking services to The Bank. 
+x. The solution should be compatible with all the Mobile Platforms meeting the industry standard 
+but not limited to Android and iOS. Bidder should ensure the compatibility of solution provided  for all the impending updates / upgrades of various Mobile Platforms without any additional  cost to the Bank. Bidder should also ensure the availability of solution for any new Mobile  Platform within 1 month from the date of its launch without any additional cost to the Bank. 
+xi. The proposed solution should be compatible with all the Basic Mobile Phones, versions, Feature 
+Phones, and Smartphones & Tablets meeting the industry standards. 
+xii. The proposed solution should be able to provide various MIS reports required time to time to 
+the Bank management and/or statutory authorities within a project tenure without any 
+additional cost to the Bank and which should be configurable in nature. 
+xiii. The proposed solution should follow an enterprise model (perpetual license) at Corporate Level 
+and there should not be any restriction in terms of number of users or volume of transactions  in either way for Android and iOS. 
+xiv. Bidder has to ensure the flawless switching of all the services under purview of this RFQ to 
+Disaster Recovery (DR) site during DR drill as and when decided by Bank/statutory authority or  in case of non-availability of primary / DC site. 
+xv. The proposed solution should be well versed with functionality as of now to support English 
+language. In future if the Bank wish to/mandatory required any additional languages within the  project tenure, Bidder without any additional cost to the Bank. 
+xvi. Bidder has to offer technical and functional support of the service for contract tenure post 
+implementation of solution. During the project tenure, Bidder must provide onsite technical  and functional resources for providing support to the Bank’s staff as and when required. 
+xvii. Bidder will be required to provide technical support to Bank during the entire contract period.  xviii. For any new platform/model/OS/upgrade, Bidder will provide complete functional and 
+technical solution/ features/ application within thirty days of launch in India. 
+xix. The proposed solution should be compliant with the RBI Working group document on 
+“Information Security, Electronic Banking, Technology Risk Management and Cyber Frauds”  dated Jan 2011, such as for confidentiality and security and Cyber Security guideline June’ 2016  and subsequent guidelines. 
+xx. Bidder needs to mention any other security feature supported by the system with details and 
+architecture of security components. Bidder should provide an application to the Bank Staff,  Bank Call Centre Users and any other user designated by the Bank for real time transactions  monitoring with related reports, complaint tracking module along with customer management.  Bidder will have to include version upgrade and enhancements in services on account of  industry dynamics as a part of the Annual Maintenance. Any development work of such type  will be carried out by the technical team of Bidder. 
+xxi. Bidder must undertake suitable changes in the solution including the software, procedure and 
+operations as required from time to time to comply with any new rules of Indian  Law/RBI/IBA/MFI/TRAI/Govt. of India/NPCI and other Regulators for Mobile Banking services. 
+xxii. Bidder will have to provide a detailed process for registration and activation of mobile banking. 
+The process needs to be simple, easy to understand and secured for better acceptability by  consumers with minimum technical knowledge. 
+i. The proposed Mobile Banking Solution should be implemented interfacing with Bank’s Core 
+Banking Solution. The proposed solution should have functionality for handling retail as well as  corporate customers of Bank on Mobile Channel. The proposed solution should also support  interfacing with ATM switch, Internet banking, interfacing with BBPOU for BBPS and other  channels of the Bank (Existing and future within a project tenure) for seamless integration,  parameterization, customization etc. 
+ii. The solution should include, but not limited to, the following: 
+a) The solution should deliver the listed services as given in the scope document.   b) Bidder should implement the solution at Bidder DC, DR-Site and UAT environment.  
+iii. Any software required / needed for making the solution live and running to be provided by 
+Bidder throughout the contract period without any additional cost to the Bank. 
+iv. The proposed solution should be compatible in terms of communication/ synchronization with 
+Bank’s Core Banking Solution. 
+v. To provide support for trouble shooting and enhancements in the Services during the contract.  vi. To implement proposed Mobile Banking solution by interfacing with Bank’s Core Banking 
+application and interfacing with NPCI for IMPS, UPI, BHIM, BBPS or any other services offered  by NPCI (Existing and future) with in a project tenure without any additional cost to the Bank. 
+vii. The proposed solution should also support interfacing with Financial Transaction Switches 
+proposed by Bidder for seamless integration, parameterization, customization etc. as required  with appropriate security guidelines issued by all statutory authority within a project tenure  without any additional cost to the Bank. 
+viii. The solution should be integrated online banking channel offering a central transaction 
+management, business logic orchestration and application administration. Single integration  with host systems with a unified data architecture model. 
+ix. The solution offered should comply with all the Operative Guidelines for Mobile Banking 
+Transactions in India issued by all statutory authority. The solution should also comply with any  further guidelines and mandates issued by all statutory authority for Mobile Banking  Transactions. Bidder has to undertake to incorporate, at no cost to the Bank, suitable changes  in the solution including the software, procedure and operations as required from time to time  to comply with any new rules of Indian Law or new rules from RBI/IBA/MFI/NPCI/Bank for  providing the Mobile Banking services to The Bank. 
+x. The solution should be compatible with all the Mobile Platforms meeting the industry standard 
+but not limited to Android and iOS. Bidder should ensure the compatibility of solution provided  for all the impending updates / upgrades of various Mobile Platforms without any additional  cost to the Bank. Bidder should also ensure the availability of solution for any new Mobile  Platform within 1 month from the date of its launch without any additional cost to the Bank. 
+xi. The proposed solution should be compatible with all the Basic Mobile Phones, versions, Feature 
+Phones, and Smartphones & Tablets meeting the industry standards. 
+xii. The proposed solution should be able to provide various MIS reports required time to time to 
+the Bank management and/or statutory authorities within a project tenure without any 
+additional cost to the Bank and which should be configurable in nature. 
+xiii. The proposed solution should follow an enterprise model (perpetual license) at Corporate Level 
+and there should not be any restriction in terms of number of users or volume of transactions  in either way for Android and iOS. 
+xiv. Bidder has to ensure the flawless switching of all the services under purview of this RFQ to 
+Disaster Recovery (DR) site during DR drill as and when decided by Bank/statutory authority or  in case of non-availability of primary / DC site. 
+xv. The proposed solution should be well versed with functionality as of now to support English 
+language. In future if the Bank wish to/mandatory required any additional languages within the  project tenure, Bidder without any additional cost to the Bank. 
+xvi. Bidder has to offer technical and functional support of the service for contract tenure post 
+implementation of solution. During the project tenure, Bidder must provide onsite technical  and functional resources for providing support to the Bank’s staff as and when required. 
+xvii. Bidder will be required to provide technical support to Bank during the entire contract period.  xviii. For any new platform/model/OS/upgrade, Bidder will provide complete functional and 
+technical solution/ features/ application within thirty days of launch in India. 
+xix. The proposed solution should be compliant with the RBI Working group document on 
+“Information Security, Electronic Banking, Technology Risk Management and Cyber Frauds”  dated Jan 2011, such as for confidentiality and security and Cyber Security guideline June’ 2016  and subsequent guidelines. 
+xx. Bidder needs to mention any other security feature supported by the system with details and 
+architecture of security components. Bidder should provide an application to the Bank Staff,  Bank Call Centre Users and any other user designated by the Bank for real time transactions  monitoring with related reports, complaint tracking module along with customer management.  Bidder will have to include version upgrade and enhancements in services on account of  industry dynamics as a part of the Annual Maintenance. Any development work of such type  will be carried out by the technical team of Bidder. 
+xxi. Bidder must undertake suitable changes in the solution including the software, procedure and 
+operations as required from time to time to comply with any new rules of Indian  Law/RBI/IBA/MFI/TRAI/Govt. of India/NPCI and other Regulators for Mobile Banking services. 
+xxii. Bidder will have to provide a detailed process for registration and activation of mobile banking. 
+The process needs to be simple, easy to understand and secured for better acceptability by  consumers with minimum technical knowledge. 
+i. The proposed Mobile Banking Solution should be implemented interfacing with Bank’s Core 
+Banking Solution. The proposed solution should have functionality for handling retail as well as  corporate customers of Bank on Mobile Channel. The proposed solution should also support  interfacing with ATM switch, Internet banking, interfacing with BBPOU for BBPS and other  channels of the Bank (Existing and future within a project tenure) for seamless integration,  parameterization, customization etc. 
+ii. The solution should include, but not limited to, the following: 
+a) The solution should deliver the listed services as given in the scope document.   b) Bidder should implement the solution at Bidder DC, DR-Site and UAT environment.  
+iii. Any software required / needed for making the solution live and running to be provided by 
+Bidder throughout the contract period without any additional cost to the Bank. 
+iv. The proposed solution should be compatible in terms of communication/ synchronization with 
+Bank’s Core Banking Solution. 
+v. To provide support for trouble shooting and enhancements in the Services during the contract.  vi. To implement proposed Mobile Banking solution by interfacing with Bank’s Core Banking 
+application and interfacing with NPCI for IMPS, UPI, BHIM, BBPS or any other services offered  by NPCI (Existing and future) with in a project tenure without any additional cost to the Bank. 
+vii. The proposed solution should also support interfacing with Financial Transaction Switches 
+proposed by Bidder for seamless integration, parameterization, customization etc. as required  with appropriate security guidelines issued by all statutory authority within a project tenure  without any additional cost to the Bank. 
+viii. The solution should be integrated online banking channel offering a central transaction 
+management, business logic orchestration and application administration. Single integration  with host systems with a unified data architecture model. 
+ix. The solution offered should comply with all the Operative Guidelines for Mobile Banking 
+Transactions in India issued by all statutory authority. The solution should also comply with any  further guidelines and mandates issued by all statutory authority for Mobile Banking  Transactions. Bidder has to undertake to incorporate, at no cost to the Bank, suitable changes  in the solution including the software, procedure and operations as required from time to time  to comply with any new rules of Indian Law or new rules from RBI/IBA/MFI/NPCI/Bank for  providing the Mobile Banking services to The Bank. 
+x. The solution should be compatible with all the Mobile Platforms meeting the industry standard 
+but not limited to Android and iOS. Bidder should ensure the compatibility of solution provided  for all the impending updates / upgrades of various Mobile Platforms without any additional  cost to the Bank. Bidder should also ensure the availability of solution for any new Mobile  Platform within 1 month from the date of its launch without any additional cost to the Bank. 
+xi. The proposed solution should be compatible with all the Basic Mobile Phones, versions, Feature 
+Phones, and Smartphones & Tablets meeting the industry standards. 
+xii. The proposed solution should be able to provide various MIS reports required time to time to 
+the Bank management and/or statutory authorities within a project tenure without any 
+additional cost to the Bank and which should be configurable in nature. 
+xiii. The proposed solution should follow an enterprise model (perpetual license) at Corporate Level 
+and there should not be any restriction in terms of number of users or volume of transactions  in either way for Android and iOS. 
+xiv. Bidder has to ensure the flawless switching of all the services under purview of this RFQ to 
+Disaster Recovery (DR) site during DR drill as and when decided by Bank/statutory authority or  in case of non-availability of primary / DC site. 
+xv. The proposed solution should be well versed with functionality as of now to support English 
+language. In future if the Bank wish to/mandatory required any additional languages within the  project tenure, Bidder without any additional cost to the Bank. 
+xvi. Bidder has to offer technical and functional support of the service for contract tenure post 
+implementation of solution. During the project tenure, Bidder must provide onsite technical  and functional resources for providing support to the Bank’s staff as and when required. 
+xvii. Bidder will be required to provide technical support to Bank during the entire contract period.  xviii. For any new platform/model/OS/upgrade, Bidder will provide complete functional and 
+technical solution/ features/ application within thirty days of launch in India. 
+xix. The proposed solution should be compliant with the RBI Working group document on 
+“Information Security, Electronic Banking, Technology Risk Management and Cyber Frauds”  dated Jan 2011, such as for confidentiality and security and Cyber Security guideline June’ 2016  and subsequent guidelines. 
+xx. Bidder needs to mention any other security feature supported by the system with details and 
+architecture of security components. Bidder should provide an application to the Bank Staff,  Bank Call Centre Users and any other user designated by the Bank for real time transactions  monitoring with related reports, complaint tracking module along with customer management.  Bidder will have to include version upgrade and enhancements in services on account of  industry dynamics as a part of the Annual Maintenance. Any development work of such type  will be carried out by the technical team of Bidder. 
+xxi. Bidder must undertake suitable changes in the solution including the software, procedure and 
+operations as required from time to time to comply with any new rules of Indian  Law/RBI/IBA/MFI/TRAI/Govt. of India/NPCI and other Regulators for Mobile Banking services. 
+xxii. Bidder will have to provide a detailed process for registration and activation of mobile banking. 
+The process needs to be simple, easy to understand and secured for better acceptability by  consumers with minimum technical knowledge. 
+i. The proposed Mobile Banking Solution should be implemented interfacing with Bank’s Core 
+Banking Solution. The proposed solution should have functionality for handling retail as well as  corporate customers of Bank on Mobile Channel. The proposed solution should also support  interfacing with ATM switch, Internet banking, interfacing with BBPOU for BBPS and other  channels of the Bank (Existing and future within a project tenure) for seamless integration,  parameterization, customization etc. 
+ii. The solution should include, but not limited to, the following: 
+a) The solution should deliver the listed services as given in the scope document.   b) Bidder should implement the solution at Bidder DC, DR-Site and UAT environment.  
+iii. Any software required / needed for making the solution live and running to be provided by 
+Bidder throughout the contract period without any additional cost to the Bank. 
+iv. The proposed solution should be compatible in terms of communication/ synchronization with 
+Bank’s Core Banking Solution. 
+v. To provide support for trouble shooting and enhancements in the Services during the contract.  vi. To implement proposed Mobile Banking solution by interfacing with Bank’s Core Banking 
+application and interfacing with NPCI for IMPS, UPI, BHIM, BBPS or any other services offered  by NPCI (Existing and future) with in a project tenure without any additional cost to the Bank. 
+vii. The proposed solution should also support interfacing with Financial Transaction Switches 
+proposed by Bidder for seamless integration, parameterization, customization etc. as required  with appropriate security guidelines issued by all statutory authority within a project tenure  without any additional cost to the Bank. 
+viii. The solution should be integrated online banking channel offering a central transaction 
+management, business logic orchestration and application administration. Single integration  with host systems with a unified data architecture model. 
+ix. The solution offered should comply with all the Operative Guidelines for Mobile Banking 
+Transactions in India issued by all statutory authority. The solution should also comply with any  further guidelines and mandates issued by all statutory authority for Mobile Banking  Transactions. Bidder has to undertake to incorporate, at no cost to the Bank, suitable changes  in the solution including the software, procedure and operations as required from time to time  to comply with any new rules of Indian Law or new rules from RBI/IBA/MFI/NPCI/Bank for  providing the Mobile Banking services to The Bank. 
+x. The solution should be compatible with all the Mobile Platforms meeting the industry standard 
+but not limited to Android and iOS. Bidder should ensure the compatibility of solution provided  for all the impending updates / upgrades of various Mobile Platforms without any additional  cost to the Bank. Bidder should also ensure the availability of solution for any new Mobile  Platform within 1 month from the date of its launch without any additional cost to the Bank. 
+xi. The proposed solution should be compatible with all the Basic Mobile Phones, versions, Feature 
+Phones, and Smartphones & Tablets meeting the industry standards. 
+xii. The proposed solution should be able to provide various MIS reports required time to time to 
+the Bank management and/or statutory authorities within a project tenure without any 
+additional cost to the Bank and which should be configurable in nature. 
+xiii. The proposed solution should follow an enterprise model (perpetual license) at Corporate Level 
+and there should not be any restriction in terms of number of users or volume of transactions  in either way for Android and iOS. 
+xiv. Bidder has to ensure the flawless switching of all the services under purview of this RFQ to 
+Disaster Recovery (DR) site during DR drill as and when decided by Bank/statutory authority or  in case of non-availability of primary / DC site. 
+xv. The proposed solution should be well versed with functionality as of now to support English 
+language. In future if the Bank wish to/mandatory required any additional languages within the  project tenure, Bidder without any additional cost to the Bank. 
+xvi. Bidder has to offer technical and functional support of the service for contract tenure post 
+implementation of solution. During the project tenure, Bidder must provide onsite technical  and functional resources for providing support to the Bank’s staff as and when required. 
+xvii. Bidder will be required to provide technical support to Bank during the entire contract period.  xviii. For any new platform/model/OS/upgrade, Bidder will provide complete functional and 
+technical solution/ features/ application within thirty days of launch in India. 
+xix. The proposed solution should be compliant with the RBI Working group document on 
+“Information Security, Electronic Banking, Technology Risk Management and Cyber Frauds”  dated Jan 2011, such as for confidentiality and security and Cyber Security guideline June’ 2016  and subsequent guidelines. 
+xx. Bidder needs to mention any other security feature supported by the system with details and 
+architecture of security components. Bidder should provide an application to the Bank Staff,  Bank Call Centre Users and any other user designated by the Bank for real time transactions  monitoring with related reports, complaint tracking module along with customer management.  Bidder will have to include version upgrade and enhancements in services on account of  industry dynamics as a part of the Annual Maintenance. Any development work of such type  will be carried out by the technical team of Bidder. 
+xxi. Bidder must undertake suitable changes in the solution including the software, procedure and 
+operations as required from time to time to comply with any new rules of Indian  Law/RBI/IBA/MFI/TRAI/Govt. of India/NPCI and other Regulators for Mobile Banking services. 
+xxii. Bidder will have to provide a detailed process for registration and activation of mobile banking. 
+The process needs to be simple, easy to understand and secured for better acceptability by  consumers with minimum technical knowledge. 
+i. The proposed Mobile Banking Solution should be implemented interfacing with Bank’s Core 
+Banking Solution. The proposed solution should have functionality for handling retail as well as  corporate customers of Bank on Mobile Channel. The proposed solution should also support  interfacing with ATM switch, Internet banking, interfacing with BBPOU for BBPS and other  channels of the Bank (Existing and future within a project tenure) for seamless integration,  parameterization, customization etc. 
+ii. The solution should include, but not limited to, the following: 
+a) The solution should deliver the listed services as given in the scope document.   b) Bidder should implement the solution at Bidder DC, DR-Site and UAT environment.  
+iii. Any software required / needed for making the solution live and running to be provided by 
+Bidder throughout the contract period without any additional cost to the Bank. 
+iv. The proposed solution should be compatible in terms of communication/ synchronization with 
+Bank’s Core Banking Solution. 
+v. To provide support for trouble shooting and enhancements in the Services during the contract.  vi. To implement proposed Mobile Banking solution by interfacing with Bank’s Core Banking 
+application and interfacing with NPCI for IMPS, UPI, BHIM, BBPS or any other services offered  by NPCI (Existing and future) with in a project tenure without any additional cost to the Bank. 
+vii. The proposed solution should also support interfacing with Financial Transaction Switches 
+proposed by Bidder for seamless integration, parameterization, customization etc. as required  with appropriate security guidelines issued by all statutory authority within a project tenure  without any additional cost to the Bank. 
+viii. The solution should be integrated online banking channel offering a central transaction 
+management, business logic orchestration and application administration. Single integration  with host systems with a unified data architecture model. 
+ix. The solution offered should comply with all the Operative Guidelines for Mobile Banking 
+Transactions in India issued by all statutory authority. The solution should also comply with any  further guidelines and mandates issued by all statutory authority for Mobile Banking  Transactions. Bidder has to undertake to incorporate, at no cost to the Bank, suitable changes  in the solution including the software, procedure and operations as required from time to time  to comply with any new rules of Indian Law or new rules from RBI/IBA/MFI/NPCI/Bank for  providing the Mobile Banking services to The Bank. 
+x. The solution should be compatible with all the Mobile Platforms meeting the industry standard 
+but not limited to Android and iOS. Bidder should ensure the compatibility of solution provided  for all the impending updates / upgrades of various Mobile Platforms without any additional  cost to the Bank. Bidder should also ensure the availability of solution for any new Mobile  Platform within 1 month from the date of its launch without any additional cost to the Bank. 
+xi. The proposed solution should be compatible with all the Basic Mobile Phones, versions, Feature 
+Phones, and Smartphones & Tablets meeting the industry standards. 
+xii. The proposed solution should be able to provide various MIS reports required time to time to 
+the Bank management and/or statutory authorities within a project tenure without any 
+additional cost to the Bank and which should be configurable in nature. 
+xiii. The proposed solution should follow an enterprise model (perpetual license) at Corporate Level 
+and there should not be any restriction in terms of number of users or volume of transactions  in either way for Android and iOS. 
+xiv. Bidder has to ensure the flawless switching of all the services under purview of this RFQ to 
+Disaster Recovery (DR) site during DR drill as and when decided by Bank/statutory authority or  in case of non-availability of primary / DC site. 
+xv. The proposed solution should be well versed with functionality as of now to support English 
+language. In future if the Bank wish to/mandatory required any additional languages within the  project tenure, Bidder without any additional cost to the Bank. 
+xvi. Bidder has to offer technical and functional support of the service for contract tenure post 
+implementation of solution. During the project tenure, Bidder must provide onsite technical  and functional resources for providing support to the Bank’s staff as and when required. 
+xvii. Bidder will be required to provide technical support to Bank during the entire contract period.  xviii. For any new platform/model/OS/upgrade, Bidder will provide complete functional and 
+technical solution/ features/ application within thirty days of launch in India. 
+xix. The proposed solution should be compliant with the RBI Working group document on 
+“Information Security, Electronic Banking, Technology Risk Management and Cyber Frauds”  dated Jan 2011, such as for confidentiality and security and Cyber Security guideline June’ 2016  and subsequent guidelines. 
+xx. Bidder needs to mention any other security feature supported by the system with details and 
+architecture of security components. Bidder should provide an application to the Bank Staff,  Bank Call Centre Users and any other user designated by the Bank for real time transactions  monitoring with related reports, complaint tracking module along with customer management.  Bidder will have to include version upgrade and enhancements in services on account of  industry dynamics as a part of the Annual Maintenance. Any development work of such type  will be carried out by the technical team of Bidder. 
+xxi. Bidder must undertake suitable changes in the solution including the software, procedure and 
+operations as required from time to time to comply with any new rules of Indian  Law/RBI/IBA/MFI/TRAI/Govt. of India/NPCI and other Regulators for Mobile Banking services. 
+xxii. Bidder will have to provide a detailed process for registration and activation of mobile banking. 
+The process needs to be simple, easy to understand and secured for better acceptability by  consumers with minimum technical knowledge. 

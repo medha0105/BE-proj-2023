@@ -1,0 +1,2262 @@
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 
+The Commercial Bill of Material for Mobile Banking Solution, IMPS switch and Solution, UPI switch and solution,  Reconciliation, and interfacing with BBPS. 
+Per Transaction Cost – For Successful Financial Transaction: - 
+Sr. No  No.  of  Successful 
+Financial Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+Per Transaction Cost – For Successful Non-Financial Transaction: - 
+Sr. No 
+No.  of  Successful 
+Non-Financial  Transaction 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  1 – 25,000 
+2  25,001 – 50,000 
+3  50,001 – 1,00,000 
+4  1,00,000 & above 
+One Time Cost: - One time cost should include Implementation charges, Development charges, API  development between CBS and Mobile Banking Application, API with any other 3
+rd
+ Parties required for  proposed application, Training, Customization, Infrastructure setup and allocation etc. 
+Sr.No.  Activity  Amount 
+1  One time setup charges for Mobile Banking Solution (Android, IOS) 
+2  One time setup charges for   IMPS Switch and Solution 
+3  One time setup charges for   UPI Switch and Solution 
+Total 
+Reconciliation  
+Sr. No  Details 
+Year 1 
+Rate (INR) 
+Year 2 
+Rate (INR) 
+Year 3 
+Rate (INR) 
+Year 4 
+Rate (INR) 
+Year 5 
+Rate (INR) 
+1  Reconciliation for All  delivery channels i.e.  ATM, IMPS, UPI, BBPS  etc.  
+Customization (Non-TCO) 
+Sr.No.  Customization Type  Team leader  Man Day Rate 
+(INR) 
+Total man days  for  Team 
+leader 
+Application Manager 
+Man Day rate 
+(INR) 
+Total man days for  Application Manager 
+1  Critical  75  150 
+2  Other  75  150 
+Note:  
+1. Customization charges will be applicable for any change request beyond the defined scope of RFQ document 
+and customization cost will remain same for next five years. 
+2. Taxes are extra at actuals during the project tenure. 
+3. One time set charges includes migration (if any), training, UAT, Implementation, Interfacing etc. 
+4. Sign-off to be provided from bank for UAT, Soft Launch Go-Live, Original Go-Live, Completion of one-time 
+activities before submission of Invoice. 
+** Note: Taxes on each item (Do not mention only the applicable percentage of Tax, please mention the amount  of Tax also. If require you may create additional columns and rows). 
+GST will be on Banks account on actuals. Variation (+/-) in rate of tax if any will be on the Banks accounts. 
+TERMS AND CONDITIONS ON COMMERCIAL QUOTATION
+1)  The above quoted fee is the lump sum (fixed price) amount, and any add on in any form will not be  payable by the Bank for whatsoever reason. 
+2)  The FEE EXCLUDES ALL TAXES, DUTIES, LEVIES, SERVICE TAX, etc. 
+3)  The fee also includes the cost of deliverables for all the phases of the Project. 
+4)  The BANK will deduct the tax at source, if any, as per the law of the land. 
+5)  Further, we confirm that we will abide by all the terms and conditions contained in the Request for  Proposal document. 
+6)  The technically eligible Bidder have to participate in the reverse auction procedure. However, Bidder has  to submit the commercial in hardcopy along with the bid. Bank will inform only to the eligible Bidder. 
+7)  No additional cost for traveling, lodging, boarding will be paid by the bank. 
+Dated this……………by ………….2022 
+Authorized Signatory (Name) Phone Number including Mobile Number:   Fax:  E-mail: 

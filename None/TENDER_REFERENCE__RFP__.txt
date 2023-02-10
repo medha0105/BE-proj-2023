@@ -1,0 +1,66 @@
+Important Clarifications: 
+Following terms are used in the document interchangeably to mean: 
+1. Bank means ‘Bank of Maharashtra’  2. Bidder means the respondent to the RFP document/Vendor/Supplier/Contractor.  3. RFP means the Request for Proposal no RFP 09/2022-23 for Supply, Implementation and 
+Maintenance of Unified Payment Interface(UPI) Solution For Five Years, Under Capex Model  
+4. CBS means Core Banking Solution implemented in the Bank  5. Bidder and Bank shall be individually referred to as ‘Party’ and collectively as ‘Parties’  6. Bidder/Respondent/Vendor/Supplier/Contractor. – signifies those who purchase this tender 
+document and submits  Response to it. 
+7. DC means Data Centre  8. DR/DRC/DRS means Disaster Recovery Site  9. NS/NLS means Near Site  10. DB means Database  11. PSB – Public Sector Bank  12. NSIC – National Small Industries Corporation Limited  13. Acronym Full Form  14. AM  Approach and Methodology 
+15. AMC Annual Maintenance Contract  16. APIs   Application Programming Interface  17. APT  Advanced Persistent Threat 
+18. ATM  Automated teller machine 
+19. ATS  Annual Technical Support 
+20. Bank Bank of Maharashtra  21. BC  Business Continuity 
+22. BOM Bill of Materials  23. BRS  Business Requirement Specification 
+24. CB  Commercial Bid 
+25. CBS  Core Banking Solution 
+26. CD  Compact Disk 
+27. CPC  Common Point of Compromise 
+28. DB  Database 
+29. DC  Data Centre 
+30. DLA  Device Level audit 
+31. DR  Disaster Recovery 
+32. DR  Disaster Recovery 
+33. EMD Earnest Money Deposit  34. FM  Facility Management 
+35. FR  Functional Requirements 
+36. GST  Good Services Tax 
+37. GUI  Graphical User Interface 
+38. HA  High Availability 
+39. HRMS Integrated Human Resource Management System  40. IRM  Integrated Risk Management 
+41. IS  Information Security 
+42. ISO  international standards organization 
+43. IT  Information Technology 
+44. MO  Management Organization 
+45. MS SQL  Microsoft structured query language 
+46. NBFC Non-Banking Financial Company  47. NDA  Non-Disclosure Agreement 
+48. NPCI National Payment Corporation of India  49. NUUP  National Unified USSD [Unstructured Supplementary Services Data] Platform  50. OEM Original Equipment Manufacturer 
+51. OS  Operating System 
+52. OSD  Original Software Developer 
+53. OPD  Original Platform Developer 
+54. PB  Project Demonstration & Bid Presentation 
+55. PBG  Performance Bank Guarantee 
+56. PO  Purchase Order 
+57. PoP  Point of Presence 
+58. POS  Point of Sales 
+59. PSP  Payment System Player 
+60. PSU  Public Sector Undertaking 
+61. RBI  Reserve Bank of India 
+62. RCA  Root cause analysis 
+63. RFP  Request for Proposal 
+64. RPO  Recovery point objective 
+65. RRB  Regional Rural Bank 
+66. RTGS Real Time Gross Settlement  67. RTO  Recovery Time objective 
+68. SAN  Storage Area Network 
+69. SCB  Scheduled Commercial Bank 
+70. SEBI Securities Exchange Board of India  71. SI  System Integrator 
+72. SLA  Service Level Agreement 
+73. SOP  Standard Operating Procedures 
+74. SRS  System Requirement Specification 
+75. T&D  Training and Development 
+76. TB  Technical Bid 
+77. TCO  Total Cost of Ownership 
+78. TPS  Transactions Per Second  79. TR  Technical Requirements 
+80. UAT  User Acceptance Testing 
+81. UPI  Unified Payment Interface 
+82. USSD  Unstructured Supplementary Services Data  83. VA  Vulnerability Assessment 
+84. HSMs  Hardware Security Modules  85. GOI     Govt. of India  86. AMC    Annual Maintenance contract  87. RBI      Reserve Bank of India  88. CPU    Central Processing Unit  89. RAM    Random Accesss Memory  90. OEM    Original Equipment Manufacturer  91. FI         Financial Inclusion  92. CMS    Card Management System  93. FRMS Fraud Risk Management System  94. SIEM   Security Information & Event Management  95. VPA    Virtual Payment address  96. SDKs  Software Development Kits  97. ISO     International Organization for Standardization  98. XML    Extensible Markup language  99. MQ      Messaging & Queuing  100.QR     Quick Response Code  101.POS   Pont of Sale  102.UI       User Interface  103. NTSL Net Settlement Report 
+This document is meant for the specific use by the Company / person/s interested to participate in the  current tendering process. This document in its entirety is subject to Copyright Laws. The Bidder or any 
+person acting on behalf of the Bidder should strictly adhere to the instructions given in the document and  maintain confidentiality of information. The Bidder/s will be held responsible for any misuse of information  contained in the document, and liable to be   Prosecuted by the bank In the event that such a circumstance is brought to the notice of the bank. By  downloading the document, the interested party is subject to confidentiality clauses. 

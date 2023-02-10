@@ -1,0 +1,2 @@
+Bidder should indicate GSTIN No.  and PAN  No.  
+Self-attested copy of GST registration and  PAN to be enclosed. 
