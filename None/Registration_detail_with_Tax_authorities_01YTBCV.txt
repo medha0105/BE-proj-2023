@@ -1,0 +1,6 @@
+1 Income-tax PAN
+2 Value Added Tax No.
+9
+3 Service Tax No.
+4 GST No
+10

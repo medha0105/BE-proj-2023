@@ -1,0 +1,8 @@
+1 Display: Large display IPS/TFT capacitive touch screen
+2 Micro ATM should be NCMC contactless certified device, It should be capable of Card based Transaction, Aadhar Based Transaction.
+5
+3 Tamper detection capability
+4 Communication:Wifi and 4G or better with downward compatibility to 3G  and Bluetooth 4.0 communication
+5 Camera: Inbuilt Integrated camera of at least 5 Mega pixel resolution or Higher with AF
+6 Battery and Power Backup with at least 4 hrs
+7 Android 7.1 or higher

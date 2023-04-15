@@ -2,11 +2,10 @@ import fitz
 from whoosh.index import create_in
 from whoosh.fields import Schema, ID, TEXT
 import codecs
-from summa import summarizer
-from summa import keywords
 import spacy
-import pytextrank
+from spacy.tokens import Span
 import os, os.path
+import shutil
 import re
 import operator
 import re
@@ -14,28 +13,33 @@ from django.shortcuts import render
 from django.core.files import File
 from whoosh.qparser import MultifieldParser
 from rest_framework.response import Response
+from rest_framework import status
 from rest_framework.decorators import api_view
 from .models import Document, Sections
 from .serializer import DocumentSerializer
+from summarizer import Summarizer
 
 
 @api_view(['POST'])
 def setDocument(request):
+    print("Hello", request)
     data = request.data
+    print("data:", data)
     doc = Document.objects.create(
         pdf = data['pdf']
     )
     serializer = DocumentSerializer(data=doc, many=False)
     if serializer.is_valid():
         serializer.save()
-    preprocessing()
     # call to preprocessing
-    return Response(serializer.data)
-    # return Response({"Sample":"data"})
+    preprocessing()
+    return Response({"Sample":"data"}) # , status=status.HTTP_500_INTERNAL_SERVER_ERROR
 
 def preprocessing():
-    doc_ = Document.objects.all()[0].pdf
-    doc = fitz.open(doc_)
+    l = len(Document.objects.all())
+    print(Document.objects.all()[l-1])
+    doc_ = Document.objects.all()[l-1]
+    doc = fitz.open(doc_.pdf)
     font_counts = {}
     granularity=False
 
@@ -89,6 +93,9 @@ def preprocessing():
                 block_string = ""  # text found in block
                 for l in b["lines"]:  # iterate through the text lines
                     for s in l["spans"]:  # iterate through the text spans
+                        string_encode = s['text'].encode("ascii", "ignore")
+                        string_decode = string_encode.decode()
+                        s['text'] = string_decode
                         if s['text'].strip():  # removing whitespaces:
                             if first:
                                 previous_s = s
@@ -124,12 +131,11 @@ def preprocessing():
 
                 if block_string != '': 
                     header_para.append(block_string)
-    
     print("header_para")
-    createSections(header_para)
+    createSections(header_para, doc_)
             
-# Extracting sections by filtering content from one header to the next
-def createSections(header_para):
+# Extracting sections by filtering content from one heading to the next
+def createSections(header_para, doc_):
     pattern = re.compile("<h.>")
     sectionStarted = False
     count=0
@@ -139,12 +145,13 @@ def createSections(header_para):
     exceptionFile = 0
 
     for ind in range(0,len(header_para)):
+        
         if pattern.match(header_para[ind][0:4]) and sectionStarted == False:
             sectionStarted = True
             file_name = (header_para[ind][4:]).strip()
             file_name = re.sub('[^a-zA-Z ]', '', file_name)
             try:
-                f = open(file_name+'.txt', mode='a+', encoding='cp1252')
+                f = open(file_name+'.txt', mode='a+')
                 fp = File(f)
                 section_names.append(file_name+'.txt')
                 for j in range(ind+1, len(header_para)):
@@ -154,13 +161,18 @@ def createSections(header_para):
                     if pattern.match(header_para[j][0:4]) and sectionStarted == True:
                         sectionStarted = False
                         if count != 0:
-                            new_entry = Sections(text_file=fp)
+                            new_entry = Sections(text_file=fp, key=doc_)
                             new_entry.save()
                         fp.close()
-                        # os.remove(file_name+'.txt')
+                        path = os.path.join(os.getcwd(), file_name+'.txt')
+                        os.remove(path)
                         count=0
                         ind = j-1
                         break
+                    if(j == len(header_para)-1 and sectionStarted == True):
+                        fp.close()
+                        path = os.path.join(os.getcwd(), file_name+'.txt')
+                        os.remove(path)
             except FileNotFoundError:
                 print("Exception block")
                 exceptionFile+=1
@@ -174,10 +186,11 @@ def createSections(header_para):
                     if pattern.match(header_para[j][0:4]) and sectionStarted == True:
                         sectionStarted = False
                         if count != 0:
-                            new_entry = Sections(text_file=fp)
+                            new_entry = Sections(text_file=fp, key=doc_)
                             new_entry.save()
                         fp.close()
-                        # os.remove("DummyFileName"+str(exceptionFile)+'.txt')
+                        
+                        os.remove("DummyFileName"+str(exceptionFile)+'.txt')
                         count=0
                         ind = j-1
                         break
@@ -187,59 +200,127 @@ def createSections(header_para):
 def setQuery(request):
     print(request.data)
     query = request.data["query"]
+    r = request.data["summary_size"]
     print("query: ",query)
-    summary = indexing(query)
-    return Response({'summary': summary})
+    print("range: ", r)
+    ix = indexing()
+    summary = parse_user_query(ix, query, r)
+    return Response(summary)
 
-@api_view(['GET'])
-def getSections(request):
-    sectionNames = []
-    sections = Sections.objects.all()
-    for section in sections:
-        sectionNames.append((str(section.text_file)[5:]).replace('_',' '))
-    return Response(sectionNames)
-
-def indexing(query):
+def indexing():
     schema = Schema(title=TEXT(stored=True), path=ID(stored=True), content=TEXT)
     if not os.path.exists("indexdir"):
         os.mkdir("indexdir")
     ix = create_in("indexdir", schema)
     writer = ix.writer()
-    t = Sections.objects.all()
-    # print(t[0])
+    l = len(Document.objects.all())
+    doc_ = Document.objects.all()[l-1]
+
+    # Retrieve sections of current document only
+    t = Sections.objects.filter(key=doc_)
     for ele in t:
-        with codecs.open(str(ele.text_file), "r","cp1252") as f:
-            writer.add_document(title=str(ele)[5:], path=u"/a", content=f.read())
+        f=open(str(ele.text_file),"r")
+        writer.add_document(title=(str(ele)[5:]).replace('_',' '), path=u"/a", content=f.read())
     writer.commit()
     print("committed")
-    summary = parse_user_query(ix, query)
-    return summary
+    return ix
+    # summary = # parse_user_query(ix, query, r)
+    # return summary
 
-def parse_user_query(ix, query):
+def parse_user_query(ix, query, r):
+    print("in parse user query")
+    print(query)
     sections = []
     with ix.searcher() as searcher:
         mparser = MultifieldParser(["title", "content"], ix.schema).parse(query)
-        results = searcher.search(mparser)
+        results = searcher.search(mparser, limit=None)
         for i in range(len(results)):
-            # print(results[i]['title'])
             sections.append(results[i]['title'])
-    print(sections)
-    summary = summarizer(sections)
+    print("Relevant sections", sections)
+    summary = summarizer(sections, r)
     return summary
 
-def summarizer(sections):
-    en_nlp = spacy.load("en_core_web_sm")
-    en_nlp.add_pipe("textrank", config={ "stopwords": { "word": ["NOUN"] }})
+def summarizer(sections, r):
+    # en_nlp = spacy.load("en_core_web_sm")
+    # en_nlp.add_pipe("textrank", config={ "stopwords": { "word": ["NOUN"] }})
+
+    section_content = {}
+
+    r1 = int(r)/100
+    ratio_per_section = 3 if len(sections)>3 else len(sections)
+    r1 = r1/ratio_per_section
     final_summary = ""
+    count = 0
+    print("brfore for")
     for sec in sections:
-        sec = "None/" + str(sec)
         print(sec)
-        t = Sections.objects.get(text_file=sec)
-        with codecs.open(str(t.text_file), "r","cp1252") as f:
-            document = f.read()
-            doc = en_nlp(document)
-            tr = doc._.textrank
-            for sent in tr.summary(limit_phrases=10, limit_sentences=2):
-                final_summary = final_summary + str(sent)
-    return final_summary
-    
+        count += 1
+        sect = "None/" + str(sec).replace(' ', '_')
+        t = Sections.objects.get(text_file=sect)
+        f=open(str(t.text_file),"r")
+        document = f.read()
+        # BERT Model
+        model = Summarizer()
+        result = model(document, ratio=r1)
+
+        # Adding section content to the dict to show in the frontend as a link
+        section_content[sec[:-12]] = document
+        print(document)
+
+        # TextRank
+        # with codecs.open(str(t.text_file), "r") as f:
+        #     document = f.read()
+            # doc = en_nlp(document)
+            # tr = doc._.textrank
+            # for sent in tr.summary(limit_phrases=10, limit_sentences=1):
+
+        final_summary = final_summary + str(result)
+        if(count > 2):
+            print("Final summary: ", final_summary)
+            return {'section_content':section_content, 'summary':final_summary}
+    print("Final summary: ", final_summary)
+    return {'section_content':section_content, 'summary':final_summary}
+
+@api_view(['GET'])
+def getSections(request):
+    l = len(Document.objects.all())
+    if l==0: 
+        return Response() 
+    doc_ = Document.objects.all()[l-1]
+    sectionNames = []
+    sections = Sections.objects.filter(key=doc_)
+    for section in sections:
+        if "DummyFileName" in str(section):
+            continue
+        sectionNames.append((str(section.text_file)[5:-12]).replace('_',' '))
+    return Response(sectionNames)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # @spacy.registry.misc("prefix_scrubber")
+    # def prefix_scrubber():
+    #     def scrubber_func(span: Span) -> str:
+    #         while span[0].text in ("a", "the", "any"):
+    #             span = span[1:]
+    #         return span.text
+    #     return scrubber_func
+    # "scrubber": {"@misc": "prefix_scrubber"}

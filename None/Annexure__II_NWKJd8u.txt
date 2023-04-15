@@ -1,0 +1,5 @@
+Please provide the technical specification of proposed Micro ATMs
+Attach Certification of Compliance as per Micro ATM Standard 1.5.1 and latest guidelines
+Please confirm that the front end software will be designed as per the banks requirement
+Please provide the detail of the Centralized Management System (like for updating the patches, Software, tracking, Online Configuration of new machine etc)
+11

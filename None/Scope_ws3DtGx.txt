@@ -1,0 +1,6 @@
+The Punjab State Co-operative bank intends to purchase around 2000 Micro ATMs in
+the first phase of the Project, which may increase to around 5 to 6 thousands in the
+coming two to three years.  The objective to invite the EOI is to provide the demonstration of
+Micro ATM  hardware along with understanding of software and various interface/
+gateway functionality  . The micro ATM devices should comply with IBA, IDRBT, NPCI and
+UIDAI and  formulated micro ATM 1.5.1 standards.

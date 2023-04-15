@@ -1,0 +1,2 @@
+Bidder is expected to provide following services, but not limited to: 
+Provide solution management services for project duration post go-live of the entire system. 
